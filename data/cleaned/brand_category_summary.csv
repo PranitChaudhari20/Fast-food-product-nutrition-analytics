@@ -1,0 +1,25 @@
+Brand,Category,Items,BaseProducts,AvgCalories,AvgProtein,AvgSodium,AvgSugars,PctOfBrandMenu
+McDonald's,Beverages,181,63,195.8,5.3,102.2,32.4,55.2
+McDonald's,Breakfast,29,23,485.5,16.8,1068.3,7.9,8.8
+McDonald's,Burgers & Sandwiches,27,27,457.6,24.3,1011.5,7.1,8.2
+McDonald's,Chicken,15,12,433.3,24.1,916.7,6.5,4.6
+McDonald's,Desserts & Shakes,37,22,531.6,11.3,211.9,70.4,11.3
+McDonald's,Salads,11,11,230.0,18.3,571.8,7.8,3.4
+McDonald's,Sauces & Condiments,24,24,65.4,0.3,230.8,5.7,7.3
+McDonald's,Sides,4,2,302.5,3.3,203.8,3.8,1.2
+Burger King,Beverages,63,22,211.3,1.4,93.0,49.8,36.6
+Burger King,Breakfast,24,21,510.0,16.2,1200.4,8.0,14.0
+Burger King,Burgers & Sandwiches,24,24,676.7,35.2,1116.3,9.0,14.0
+Burger King,Chicken,16,10,535.6,20.6,1115.6,3.6,9.3
+Burger King,Desserts & Shakes,14,14,405.7,8.1,324.6,50.9,8.1
+Burger King,Salads,3,3,346.7,20.0,801.7,3.7,1.7
+Burger King,Sauces & Condiments,14,14,98.6,0.4,185.0,4.4,8.1
+Burger King,Sides,14,5,317.1,2.8,406.1,30.9,8.1
+KFC,Beverages,112,34,156.3,0.1,104.2,41.0,52.6
+KFC,Breakfast,2,2,235.0,4.0,550.0,9.0,0.9
+KFC,Burgers & Sandwiches,5,5,474.0,24.0,1320.0,9.4,2.3
+KFC,Chicken,43,42,301.4,18.0,767.2,1.1,20.2
+KFC,Desserts & Shakes,7,7,258.6,3.0,200.0,24.4,3.3
+KFC,Salads,2,2,27.5,2.0,50.0,1.5,0.9
+KFC,Sauces & Condiments,15,15,71.7,0.3,187.3,3.5,7.0
+KFC,Sides,27,16,339.3,7.5,808.7,9.2,12.7

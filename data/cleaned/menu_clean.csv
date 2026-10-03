@@ -1,0 +1,714 @@
+Brand,Item,BaseItem,Category,Calories,Fat_g,SaturatedFat_g,TransFat_g,Cholesterol_mg,Sodium_mg,Carbs_g,Fiber_g,Sugars_g,Protein_g,ProteinPer100kcal,SodiumPer100kcal,PctCaloriesFromFat,IsZeroCalorie,IsSizeVariant
+Burger King,1% Low Fat Chocolate Milk (8 fl oz),1% Low Fat Chocolate Milk,Beverages,160,2.5,1.5,0.0,15,150,26,0,25,8,5.0,93.8,14.1,False,False
+Burger King,BK Café Caramel Frappe- 12 fl oz,BK Café Caramel Frappe,Beverages,300,8.0,5.0,0.0,35,210,50,0,41,7,2.33,70.0,24.0,False,True
+Burger King,BK Café Caramel Frappe- 16 fl oz,BK Café Caramel Frappe,Beverages,400,10.0,7.0,0.0,40,280,68,0,56,9,2.25,70.0,22.5,False,True
+Burger King,BK Café Caramel Frappe- 20 fl oz,BK Café Caramel Frappe,Beverages,500,12.0,8.0,0.0,50,350,86,0,71,11,2.2,70.0,21.6,False,True
+Burger King,BK Café Coffee- 12 fl oz,BK Café Coffee,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,BK Café Coffee- 16 fl oz,BK Café Coffee,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,BK Café Coffee- 20 fl oz,BK Café Coffee,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,BK Café Decaf Coffee- 12 fl oz,BK Café Decaf Coffee,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,BK Café Decaf Coffee- 16 fl oz,BK Café Decaf Coffee,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,BK Café Decaf Coffee- 20 fl oz,BK Café Decaf Coffee,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,BK Café Iced Mocha Coffee- 12 fl oz,BK Café Iced Mocha Coffee,Beverages,180,8.0,4.0,0.0,25,40,27,1,25,2,1.11,22.2,40.0,False,True
+Burger King,BK Café Iced Mocha Coffee- 16 fl oz,BK Café Iced Mocha Coffee,Beverages,240,10.0,6.0,0.0,30,55,35,1,32,2,0.83,22.9,37.5,False,True
+Burger King,BK Café Iced Mocha Coffee- 20 fl oz,BK Café Iced Mocha Coffee,Beverages,300,13.0,7.0,0.0,40,70,45,2,41,3,1.0,23.3,39.0,False,True
+Burger King,BK Café Iced Vanilla Coffee- 12 fl oz,BK Café Iced Vanilla Coffee,Beverages,150,8.0,4.0,0.0,25,30,21,0,21,1,0.67,20.0,48.0,False,True
+Burger King,BK Café Iced Vanilla Coffee- 16 fl oz,BK Café Iced Vanilla Coffee,Beverages,200,10.0,5.0,0.0,30,40,27,0,27,2,1.0,20.0,45.0,False,True
+Burger King,BK Café Iced Vanilla Coffee- 20 fl oz,BK Café Iced Vanilla Coffee,Beverages,260,13.0,7.0,0.0,40,50,34,0,34,2,0.77,19.2,45.0,False,True
+Burger King,BK Café Mocha Frappe- 12 fl oz,BK Café Mocha Frappe,Beverages,300,8.0,5.0,0.0,30,200,50,1,41,7,2.33,66.7,24.0,False,True
+Burger King,BK Café Mocha Frappe- 16 fl oz,BK Café Mocha Frappe,Beverages,400,10.0,7.0,0.0,40,270,68,1,58,9,2.25,67.5,22.5,False,True
+Burger King,BK Café Mocha Frappe- 20 fl oz,BK Café Mocha Frappe,Beverages,510,13.0,8.0,0.0,50,350,87,1,71,12,2.35,68.6,22.9,False,True
+Burger King,Barq's Root Beer (16 fl oz),Barq's Root Beer,Beverages,240,0.0,0.0,0.0,0,100,65,0,65,0,0.0,41.7,0.0,False,True
+Burger King,Barq's Root Beer (20 fl oz),Barq's Root Beer,Beverages,300,0.0,0.0,0.0,0,120,81,0,81,0,0.0,40.0,0.0,False,True
+Burger King,Barq's Root Beer (29 fl oz),Barq's Root Beer,Beverages,350,0.0,0.0,0.0,0,180,118,0,118,0,0.0,51.4,0.0,False,True
+Burger King,Barq's Root Beer (38 fl oz),Barq's Root Beer,Beverages,450,0.0,0.0,0.0,0,230,155,0,155,0,0.0,51.1,0.0,False,True
+Burger King,Capri Sun 100% Apple Juice,Capri Sun 100% Apple Juice,Beverages,80,0.0,0.0,0.0,0,25,20,0,20,0,0.0,31.2,0.0,False,True
+Burger King,Capri Sun 100% Apple Juice (6 fl oz),Capri Sun 100% Apple Juice,Beverages,80,0.0,0.0,0.0,0,25,20,0,20,0,0.0,31.2,0.0,False,True
+Burger King,Cherry Coke (16 fl oz),Cherry Coke,Beverages,220,0.0,0.0,0.0,0,55,61,0,61,0,0.0,25.0,0.0,False,True
+Burger King,Cherry Coke (20 fl oz),Cherry Coke,Beverages,280,0.0,0.0,0.0,0,70,76,0,76,0,0.0,25.0,0.0,False,True
+Burger King,Cherry Coke (29 fl oz),Cherry Coke,Beverages,410,0.0,0.0,0.0,0,100,110,0,110,0,0.0,24.4,0.0,False,True
+Burger King,Cherry Coke (38 fl oz),Cherry Coke,Beverages,450,0.0,0.0,0.0,0,130,145,0,145,0,0.0,28.9,0.0,False,True
+Burger King,Coca Cola classic (16 fl oz),Coca Cola classic,Beverages,210,0.0,0.0,0.0,0,50,58,0,58,0,0.0,23.8,0.0,False,True
+Burger King,Coca Cola classic (20 fl oz),Coca Cola classic,Beverages,270,0.0,0.0,0.0,0,60,73,0,73,0,0.0,22.2,0.0,False,True
+Burger King,Coca Cola classic (29 fl oz),Coca Cola classic,Beverages,290,0.0,0.0,0.0,0,85,105,0,105,0,0.0,29.3,0.0,False,True
+Burger King,Coca Cola classic (38 fl oz),Coca Cola classic,Beverages,510,0.0,0.0,0.0,0,115,138,0,138,0,0.0,22.5,0.0,False,True
+Burger King,Diet Coke (16 fl oz),Diet Coke,Beverages,0,0.0,0.0,0.0,0,70,0,0,0,0,,,,True,True
+Burger King,Diet Coke (20 fl oz),Diet Coke,Beverages,0,0.0,0.0,0.0,0,85,0,0,0,0,,,,True,True
+Burger King,Diet Coke (29 fl oz),Diet Coke,Beverages,0,0.0,0.0,0.0,0,120,0,0,0,0,,,,True,True
+Burger King,Diet Coke (38 fl oz),Diet Coke,Beverages,0,0.0,0.0,0.0,0,160,0,0,0,0,,,,True,True
+Burger King,Dr. Pepper (16 fl oz),Dr. Pepper,Beverages,190,0.0,0.0,0.0,0,60,52,0,51,0,0.0,31.6,0.0,False,True
+Burger King,Dr. Pepper (20 fl oz),Dr. Pepper,Beverages,240,0.0,0.0,0.0,0,75,65,0,64,0,0.0,31.2,0.0,False,True
+Burger King,Dr. Pepper (29 fl oz),Dr. Pepper,Beverages,350,0.0,0.0,0.0,0,105,94,0,93,0,0.0,30.0,0.0,False,True
+Burger King,Dr. Pepper (38 fl oz),Dr. Pepper,Beverages,450,0.0,0.0,0.0,0,140,124,0,121,0,0.0,31.1,0.0,False,True
+Burger King,Fanta Orange (16 fl oz),Fanta Orange,Beverages,230,0.0,0.0,0.0,0,60,62,0,61,0,0.0,26.1,0.0,False,True
+Burger King,Fanta Orange (20 fl oz),Fanta Orange,Beverages,280,0.0,0.0,0.0,0,70,78,0,77,0,0.0,25.0,0.0,False,True
+Burger King,Fanta Orange (29 fl oz),Fanta Orange,Beverages,410,0.0,0.0,0.0,0,105,113,0,111,0,0.0,25.6,0.0,False,True
+Burger King,Fanta Orange (38 fl oz),Fanta Orange,Beverages,530,0.0,0.0,0.0,0,135,148,0,146,0,0.0,25.5,0.0,False,True
+Burger King,Fat FREE Milk (8 fl oz),Fat FREE Milk,Beverages,90,0.0,0.0,0.0,5,125,13,0,12,9,10.0,138.9,0.0,False,False
+Burger King,Frozen Coke - 16 oz,Frozen Coke,Beverages,130,0.0,0.0,0.0,0,50,35,0,35,0,0.0,38.5,0.0,False,False
+Burger King,MINUTE MAID Light Lemonade (16 fl oz),MINUTE MAID Light Lemonade,Beverages,10,0.0,0.0,0.0,0,60,3,0,0,0,0.0,600.0,0.0,False,True
+Burger King,MINUTE MAID Light Lemonade (20 fl oz),MINUTE MAID Light Lemonade,Beverages,10,0.0,0.0,0.0,0,70,4,0,0,0,0.0,700.0,0.0,False,True
+Burger King,MINUTE MAID Light Lemonade (29 fl oz),MINUTE MAID Light Lemonade,Beverages,15,0.0,0.0,0.0,0,105,5,0,0,0,0.0,700.0,0.0,False,True
+Burger King,MINUTE MAID Light Lemonade (38 fl oz),MINUTE MAID Light Lemonade,Beverages,20,0.0,0.0,0.0,0,135,7,0,0,0,0.0,675.0,0.0,False,True
+Burger King,Minute Maid Orange Juice,Minute Maid Orange Juice,Beverages,140,0.0,0.0,0.0,0,20,33,0,30,2,1.43,14.3,0.0,False,False
+Burger King,Smoothie: Strawberry Banana 16 fl oz,Smoothie: Strawberry Banana 16 fl oz,Beverages,310,1.0,0.0,0.0,0,55,71,3,50,4,1.29,17.7,2.9,False,False
+Burger King,Sprite (16 fl oz),Sprite,Beverages,210,0.0,0.0,0.0,0,95,56,0,56,0,0.0,45.2,0.0,False,True
+Burger King,Sprite (20 fl oz),Sprite,Beverages,260,0.0,0.0,0.0,0,120,70,0,70,0,0.0,46.2,0.0,False,True
+Burger King,Sprite (29 fl oz),Sprite,Beverages,380,0.0,0.0,0.0,0,170,102,0,102,0,0.0,44.7,0.0,False,True
+Burger King,Sprite (38 fl oz),Sprite,Beverages,500,0.0,0.0,0.0,0,230,133,0,133,0,0.0,46.0,0.0,False,True
+Burger King,Sweet Tea (20 fl oz),Sweet Tea,Beverages,120,0.0,0.0,0.0,0,0,35,0,35,0,0.0,0.0,0.0,False,True
+Burger King,Sweet Tea (29 fl oz),Sweet Tea,Beverages,160,0.0,0.0,0.0,0,0,49,0,49,0,0.0,0.0,0.0,False,True
+Burger King,Sweet Tea (40 fl oz),Sweet Tea,Beverages,240,0.0,0.0,0.0,0,0,71,0,71,0,0.0,0.0,0.0,False,True
+Burger King,Unsweetened Tea (20 fl oz),Unsweetened Tea,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,Unsweetened Tea (29 fl oz),Unsweetened Tea,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,Unsweetened Tea (40 fl oz),Unsweetened Tea,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+Burger King,BK Ultimate Breakfast Platter,BK Ultimate Breakfast Platter,Breakfast,930,44.0,11.0,0.0,390,2230,110,4,40,24,2.58,239.8,42.6,False,False
+Burger King,"Bacon, Egg & Cheese Biscuit","Bacon, Egg & Cheese Biscuit",Breakfast,400,26.0,13.0,0.0,170,1270,29,1,3,13,3.25,317.5,58.5,False,False
+Burger King,Breakfast Burrito Jr.,Breakfast Burrito Jr.,Breakfast,370,23.0,8.0,0.0,150,930,27,3,2,15,4.05,251.4,55.9,False,False
+Burger King,"CROISSAN'WICH Bacon, Egg & Cheese","CROISSAN'WICH Bacon, Egg & Cheese",Breakfast,370,21.0,9.0,0.0,170,760,30,1,4,14,3.78,205.4,51.1,False,False
+Burger King,CROISSAN'WICH Egg & Cheese,CROISSAN'WICH Egg & Cheese,Breakfast,340,18.0,8.0,0.0,160,610,29,1,4,12,3.53,179.4,47.6,False,False
+Burger King,"CROISSAN'WICH Ham, Egg & Cheese","CROISSAN'WICH Ham, Egg & Cheese",Breakfast,370,19.0,8.0,0.0,175,1030,30,1,5,17,4.59,278.4,46.2,False,False
+Burger King,"CROISSAN'WICH Sausage, Egg & Cheese","CROISSAN'WICH Sausage, Egg & Cheese",Breakfast,500,33.0,13.0,0.0,195,930,30,1,4,19,3.8,186.0,59.4,False,False
+Burger King,Double CROISSAN'WICH with Ham & Sausage,Double CROISSAN'WICH with Ham & Sausage,Breakfast,580,38.0,16.0,0.5,220,1530,31,1,5,27,4.66,263.8,59.0,False,False
+Burger King,Double CROISSAN'WICH with Sausage,Double CROISSAN'WICH with Sausage,Breakfast,710,52.0,20.0,0.5,240,1420,31,1,5,29,4.08,200.0,65.9,False,False
+Burger King,Double CROISSAN'WICH with Sausage & Bacon,Double CROISSAN'WICH with Sausage & Bacon,Breakfast,580,40.0,16.0,0.5,215,1260,31,1,5,23,3.97,217.2,62.1,False,False
+Burger King,EGG-NORMOUS BURRITOΡ,EGG-NORMOUS BURRITOΡ,Breakfast,780,42.0,15.0,0.0,355,1960,68,3,4,32,4.1,251.3,48.5,False,False
+Burger King,French Toast Sticks (3 piece),French Toast Sticks,Breakfast,230,11.0,2.0,0.0,0,260,29,1,8,3,1.3,113.0,43.0,False,True
+Burger King,French Toast Sticks (5 piece),French Toast Sticks,Breakfast,380,18.0,3.0,0.0,0,430,49,2,13,5,1.32,113.2,42.6,False,True
+Burger King,Fully Loaded Biscuit,Fully Loaded Biscuit,Breakfast,640,45.0,20.0,0.0,225,2190,31,1,4,28,4.38,342.2,63.3,False,False
+Burger King,Fully Loaded CROISSAN'WICH,Fully Loaded CROISSAN'WICH,Breakfast,610,40.0,17.0,0.5,225,1680,31,1,5,28,4.59,275.4,59.0,False,False
+Burger King,"Ham, Egg, & Cheese Biscuit","Ham, Egg, & Cheese Biscuit",Breakfast,400,24.0,12.0,0.0,175,1550,29,1,3,17,4.25,387.5,54.0,False,False
+Burger King,Hash Browns - large,Hash Browns,Breakfast,670,44.0,9.0,0.0,0,1530,65,9,0,5,0.75,228.4,59.1,False,True
+Burger King,Hash Browns - medium,Hash Browns,Breakfast,500,33.0,7.0,0.0,0,1140,48,7,0,4,0.8,228.0,59.4,False,True
+Burger King,Hash Browns - small,Hash Browns,Breakfast,250,16.0,3.5,0.0,0,580,24,3,0,2,0.8,232.0,57.6,False,True
+Burger King,Kids Oatmeal,Oatmeal,Breakfast,170,3.0,1.5,0.0,5,260,32,3,12,4,2.35,152.9,15.9,False,False
+Burger King,NY Ultimate Platter (Regional menu item),NY Ultimate Platter (Regional menu item),Breakfast,900,46.0,12.0,0.0,380,1760,95,5,31,25,2.78,195.6,46.0,False,False
+Burger King,Pancake and Sausage platter,Pancake and Sausage platter,Breakfast,610,31.0,9.0,0.0,80,1010,72,1,30,12,1.97,165.6,45.7,False,False
+Burger King,Sausage Biscuit,Sausage Biscuit,Breakfast,420,28.0,6.0,0.0,35,1050,28,1,2,12,2.86,250.0,60.0,False,False
+Burger King,"Sausage, Egg, & Cheese Biscuit","Sausage, Egg, & Cheese Biscuit",Breakfast,530,38.0,17.0,0.0,195,1440,29,1,3,19,3.58,271.7,64.5,False,False
+Burger King,BIG FISH Sandwich,BIG FISH Sandwich,Burgers & Sandwiches,510,28.0,4.5,0.0,30,1180,51,2,7,16,3.14,231.4,49.4,False,False
+Burger King,Bacon & Cheese Whopper Sandwich,Bacon & Cheese Whopper Sandwich,Burgers & Sandwiches,790,51.0,17.0,2.0,125,1560,50,2,11,35,4.43,197.5,58.1,False,False
+Burger King,Bacon Cheeseburger,Bacon Cheeseburger,Burgers & Sandwiches,320,16.0,7.0,0.5,55,710,27,1,7,17,5.31,221.9,45.0,False,False
+Burger King,Bacon Double Cheeseburger,Bacon Double Cheeseburger,Burgers & Sandwiches,420,24.0,10.0,1.5,90,740,27,1,7,25,5.95,176.2,51.4,False,False
+Burger King,Bacon King Sandwich,Bacon King Sandwich,Burgers & Sandwiches,1150,79.0,31.0,3.5,240,2150,49,2,10,61,5.3,187.0,61.8,False,False
+Burger King,Cheddar Bacon King Sandwich,Cheddar Bacon King Sandwich,Burgers & Sandwiches,1190,84.0,33.0,3.5,235,1930,50,2,11,64,5.38,162.2,63.5,False,False
+Burger King,Cheeseburger,Cheeseburger,Burgers & Sandwiches,280,13.0,6.0,0.5,45,560,27,1,7,15,5.36,200.0,41.8,False,False
+Burger King,Crispy Taco,Crispy Taco,Burgers & Sandwiches,170,9.0,3.0,0.0,10,410,19,2,1,5,2.94,241.2,47.6,False,False
+Burger King,Double Cheeseburger,Double Cheeseburger,Burgers & Sandwiches,390,21.0,9.0,1.5,85,590,27,1,7,23,5.9,151.3,48.5,False,False
+Burger King,Double Hamburger,Double Hamburger,Burgers & Sandwiches,350,18.0,7.0,1.0,70,410,26,1,6,21,6.0,117.1,46.3,False,False
+Burger King,Double Quarter Pound King Sandwich,Double Quarter Pound King Sandwich,Burgers & Sandwiches,900,54.0,25.0,3.0,210,1740,50,2,11,56,6.22,193.3,54.0,False,False
+Burger King,Double Stacker King,Double Stacker,Burgers & Sandwiches,1050,68.0,28.0,3.5,235,1870,49,1,11,61,5.81,178.1,58.3,False,False
+Burger King,Double Whopper Sandwich,Double Whopper Sandwich,Burgers & Sandwiches,900,58.0,20.0,3.0,175,1050,49,2,11,48,5.33,116.7,58.0,False,False
+Burger King,Double Whopper Sandwich with Cheese,Double Whopper Sandwich with Cheese,Burgers & Sandwiches,980,64.0,24.0,3.0,195,1410,50,2,11,52,5.31,143.9,58.8,False,False
+Burger King,Extra Long Cheeseburger,Extra Long Cheeseburger,Burgers & Sandwiches,630,37.0,14.0,1.5,100,1050,45,2,9,29,4.6,166.7,52.9,False,False
+Burger King,Hamburger,Hamburger,Burgers & Sandwiches,240,10.0,3.5,0.5,35,380,26,1,6,13,5.42,158.3,37.5,False,False
+Burger King,IMPOSSIBLE Whopper Sandwich,IMPOSSIBLE Whopper Sandwich,Burgers & Sandwiches,630,34.0,11.0,0.0,10,1080,58,4,12,25,3.97,171.4,48.6,False,False
+Burger King,Single Quarter Pound King Sandwich,Single Quarter Pound King Sandwich,Burgers & Sandwiches,580,29.0,13.0,1.5,105,1310,49,2,10,32,5.52,225.9,45.0,False,False
+Burger King,Single Stacker King,Single Stacker,Burgers & Sandwiches,700,42.0,16.0,2.0,125,1360,48,1,10,35,5.0,194.3,54.0,False,False
+Burger King,Triple Whopper Sandwich,Triple Whopper Sandwich,Burgers & Sandwiches,1130,75.0,28.0,4.0,255,1120,49,2,11,67,5.93,99.1,59.7,False,False
+Burger King,Triple Whopper Sandwich with Cheese,Triple Whopper Sandwich with Cheese,Burgers & Sandwiches,1220,82.0,32.0,4.5,280,1470,50,2,11,71,5.82,120.5,60.5,False,False
+Burger King,Whopper JR. Sandwich,Whopper JR. Sandwich,Burgers & Sandwiches,310,18.0,5.0,0.5,40,390,27,1,7,13,4.19,125.8,52.3,False,False
+Burger King,Whopper Sandwich,Whopper Sandwich,Burgers & Sandwiches,660,40.0,12.0,1.5,90,980,49,2,11,28,4.24,148.5,54.5,False,False
+Burger King,Whopper Sandwich with Cheese,Whopper Sandwich with Cheese,Burgers & Sandwiches,740,46.0,16.0,2.0,115,1340,50,2,11,32,4.32,181.1,55.9,False,False
+Burger King,BBQ Bacon Crispy Chicken Sandwich,BBQ Bacon Crispy Chicken Sandwich,Chicken,790,49.0,10.0,0.5,80,1630,60,2,13,28,3.54,206.3,55.8,False,False
+Burger King,Bacon & Cheese Crispy Chicken Sandwich,Bacon & Cheese Crispy Chicken Sandwich,Chicken,800,52.0,13.0,1.0,95,1650,55,2,8,30,3.75,206.2,58.5,False,False
+Burger King,Chicken Fries - 9 pc.,Chicken Fries,Chicken,280,17.0,2.5,0.0,35,850,20,1,1,13,4.64,303.6,54.6,False,False
+Burger King,Chicken Nuggets- 10pc,Chicken Nuggets,Chicken,430,27.0,4.5,0.0,55,780,27,2,0,20,4.65,181.4,56.5,False,True
+Burger King,Chicken Nuggets- 20pc,Chicken Nuggets,Chicken,860,54.0,9.0,0.0,115,1570,53,3,1,39,4.53,182.6,56.5,False,True
+Burger King,Chicken Nuggets- 4pc,Chicken Nuggets,Chicken,170,11.0,1.5,0.0,25,310,11,1,0,8,4.71,182.4,58.2,False,True
+Burger King,Chicken Nuggets- 6pc,Chicken Nuggets,Chicken,260,16.0,2.5,0.0,35,470,16,1,0,12,4.62,180.8,55.4,False,True
+Burger King,Crispy Chicken Jr.,Crispy Chicken Jr.,Chicken,450,30.0,5.0,0.0,30,780,34,2,5,12,2.67,173.3,60.0,False,False
+Burger King,Crispy Chicken Sandwich,Crispy Chicken Sandwich,Chicken,670,41.0,7.0,0.0,60,1080,54,2,8,23,3.43,161.2,55.1,False,False
+Burger King,Original Chicken Sandwich,Original Chicken Sandwich,Chicken,660,40.0,7.0,0.0,75,1170,48,2,5,28,4.24,177.3,54.5,False,False
+Burger King,Spicy Chicken Nuggets- 10 pc,Spicy Chicken Nuggets,Chicken,530,37.0,7.0,0.0,55,1420,28,4,1,20,3.77,267.9,62.8,False,True
+Burger King,Spicy Chicken Nuggets- 20 pc,Spicy Chicken Nuggets,Chicken,1050,74.0,15.0,0.0,110,2840,56,9,1,40,3.81,270.5,63.4,False,True
+Burger King,Spicy Chicken Nuggets- 4pc,Spicy Chicken Nuggets,Chicken,210,15.0,3.0,0.0,20,570,11,2,0,8,3.81,271.4,64.3,False,True
+Burger King,Spicy Chicken Nuggets- 6pc,Spicy Chicken Nuggets,Chicken,320,22.0,4.5,0.0,35,850,17,3,0,12,3.75,265.6,61.9,False,True
+Burger King,Spicy Crispy Chicken Jr.,Spicy Crispy Chicken Jr.,Chicken,390,21.0,3.5,0.0,30,740,37,2,6,12,3.08,189.7,48.5,False,False
+Burger King,Spicy Crispy Chicken Sandwich,Spicy Crispy Chicken Sandwich,Chicken,700,42.0,7.0,0.0,65,1140,57,3,8,25,3.57,162.9,54.0,False,False
+Burger King,Caramel Sundae,Caramel Sundae,Desserts & Shakes,240,5.0,3.5,0.0,20,210,42,0,33,5,2.08,87.5,18.8,False,False
+Burger King,Chocolate Chip Cookies (each),Chocolate Chip Cookies,Desserts & Shakes,160,8.0,4.0,0.0,10,125,24,1,15,2,1.25,78.1,45.0,False,False
+Burger King,Chocolate Oreo Shake,Chocolate Oreo Shake,Desserts & Shakes,740,22.0,13.0,0.5,70,680,121,1,101,17,2.3,91.9,26.8,False,False
+Burger King,Dutch Apple Pie,Dutch Apple Pie,Desserts & Shakes,340,14.0,6.0,0.0,0,310,51,1,25,3,0.88,91.2,37.1,False,False
+Burger King,HERSHEY'S Chocolate Milk Shake,HERSHEY'S Chocolate Milk Shake,Desserts & Shakes,610,16.0,10.0,0.0,60,500,103,1,88,14,2.3,82.0,23.6,False,False
+Burger King,HERSHEY'S Sundae Pie,HERSHEY'S Sundae Pie,Desserts & Shakes,310,19.0,12.0,0.0,10,220,32,1,22,3,0.97,71.0,55.2,False,False
+Burger King,HERSHEY's Chocolate Sundae,HERSHEY's Chocolate Sundae,Desserts & Shakes,260,5.0,3.0,0.0,20,160,49,1,43,5,1.92,61.5,17.3,False,False
+Burger King,OREO Cookie Cheesecake,OREO Cookie Cheesecake,Desserts & Shakes,350,18.0,8.0,0.0,35,310,41,1,25,6,1.71,88.6,46.3,False,False
+Burger King,Oreo Shake,Oreo Shake,Desserts & Shakes,720,20.0,12.0,0.5,65,540,118,1,98,16,2.22,75.0,25.0,False,False
+Burger King,Pie made with TWIX,Pie made with TWIX,Desserts & Shakes,370,20.0,13.0,0.0,10,330,45,1,30,4,1.08,89.2,48.6,False,False
+Burger King,Soft Serve Cone,Soft Serve Cone,Desserts & Shakes,190,4.5,3.0,0.0,20,150,32,0,24,5,2.63,78.9,21.3,False,False
+Burger King,Soft Serve Cup,Soft Serve Cup,Desserts & Shakes,170,4.5,3.0,0.0,20,150,28,0,24,5,2.94,88.2,23.8,False,False
+Burger King,Strawberry Milk Shake,Strawberry Milk Shake,Desserts & Shakes,640,15.0,10.0,0.0,60,440,113,0,99,14,2.19,68.8,21.1,False,False
+Burger King,Vanilla Milk Shake,Vanilla Milk Shake,Desserts & Shakes,580,15.0,10.0,0.0,60,420,98,0,85,14,2.41,72.4,23.3,False,False
+Burger King,Club Salad with Crispy Chicken - no dressing,Club Salad with Crispy Chicken - no dressing,Salads,540,33.0,10.0,0.0,95,1380,31,3,5,31,5.74,255.6,55.0,False,False
+Burger King,Garden Chicken Salad with Crispy Chicken - no dressing,Garden Chicken Salad with Crispy Chicken - no dressing,Salads,440,25.0,7.0,0.0,75,930,31,3,4,25,5.68,211.4,51.1,False,False
+Burger King,Garden Side Salad - w/o dressing,Garden Side Salad - w/o dressing,Salads,60,4.0,2.5,0.0,10,95,3,1,2,4,6.67,158.3,60.0,False,False
+Burger King,American Cheese (slice),American Cheese (slice),Sauces & Condiments,40,3.5,2.0,0.0,10,180,1,0,0,2,5.0,450.0,78.8,False,False
+Burger King,Barbecue Dipping Sauce (1 oz),Barbecue Dipping Sauce,Sauces & Condiments,40,0.0,0.0,0.0,0,310,11,0,10,0,0.0,775.0,0.0,False,False
+Burger King,Breakfast Syrup (1 oz),Breakfast Syrup,Sauces & Condiments,120,0.0,0.0,0.0,0,15,30,0,18,0,0.0,12.5,0.0,False,False
+Burger King,Buffalo Dipping Sauce (1 oz),Buffalo Dipping Sauce,Sauces & Condiments,80,8.0,1.5,0.0,5,360,2,0,1,0,0.0,450.0,90.0,False,False
+Burger King,Buttery Garlic Croutons- Packet,Buttery Garlic Croutons- Packet,Sauces & Condiments,60,2.5,0.0,0.0,10,180,9,0,1,1,1.67,300.0,37.5,False,False
+Burger King,Honey Mustard Dipping Sauce (1oz),Honey Mustard Dipping Sauce,Sauces & Condiments,90,6.0,1.0,0.0,10,180,8,0,7,0,0.0,200.0,60.0,False,False
+Burger King,Ken's Golden Italian Dressing,Ken's Golden Italian Dressing,Sauces & Condiments,160,17.0,2.5,0.0,0,380,4,0,3,0,0.0,237.5,95.6,False,False
+Burger King,Ken's Lite Honey Balsamic Vinaigrette,Ken's Lite Honey Balsamic Vinaigrette,Sauces & Condiments,120,8.0,1.0,0.0,0,220,14,0,11,0,0.0,183.3,60.0,False,False
+Burger King,Ken's Ranch Dressing,Ken's Ranch Dressing,Sauces & Condiments,260,28.0,4.0,0.0,10,240,2,0,2,1,0.38,92.3,96.9,False,False
+Burger King,Ketchup (Packet),Ketchup (Packet),Sauces & Condiments,10,0.0,0.0,0.0,0,125,3,0,2,0,0.0,1250.0,0.0,False,False
+Burger King,Mayonnaise (Packet),Mayonnaise (Packet),Sauces & Condiments,80,9.0,0.5,0.0,10,75,1,0,0,0,0.0,93.8,101.2,False,False
+Burger King,Ranch Dipping Sauce (1 oz),Ranch Dipping Sauce,Sauces & Condiments,140,15.0,2.5,0.0,10,85,1,0,1,1,0.71,60.7,96.4,False,False
+Burger King,Strawberry or Grape Jam (packet),Strawberry or Grape Jam (packet),Sauces & Condiments,30,0.0,0.0,0.0,0,0,7,0,6,0,0.0,0.0,0.0,False,False
+Burger King,Zesty Onion Ring Dipping Sauce (1 oz),Zesty Onion Ring Dipping Sauce,Sauces & Condiments,150,15.0,2.5,0.0,20,240,3,0,0,0,0.0,160.0,90.0,False,False
+Burger King,French Fries - large,French Fries,Sides,430,18.0,2.5,0.0,0,410,66,7,2,5,1.16,95.3,37.7,False,True
+Burger King,French Fries - medium,French Fries,Sides,380,16.0,2.0,0.0,0,360,58,6,1,4,1.05,94.7,37.9,False,True
+Burger King,French Fries - small,French Fries,Sides,320,13.0,2.0,0.0,0,300,49,5,1,4,1.25,93.8,36.6,False,True
+Burger King,French Fries - value (unsalted),French Fries,Sides,220,9.0,1.5,0.0,0,210,34,3,1,2,0.91,95.5,36.8,False,True
+Burger King,Hi-C Fruit Punch (16 fl oz),Hi-C Fruit Punch,Sides,220,0.0,0.0,0.0,0,75,62,0,60,0,0.0,34.1,0.0,False,True
+Burger King,Hi-C Fruit Punch (20 fl oz),Hi-C Fruit Punch,Sides,280,0.0,0.0,0.0,0,95,77,0,75,0,0.0,33.9,0.0,False,True
+Burger King,Hi-C Fruit Punch (29 fl oz),Hi-C Fruit Punch,Sides,410,0.0,0.0,0.0,0,135,111,0,109,0,0.0,32.9,0.0,False,True
+Burger King,Hi-C Fruit Punch (38 fl oz),Hi-C Fruit Punch,Sides,450,0.0,0.0,0.0,0,180,146,0,143,0,0.0,40.0,0.0,False,True
+Burger King,Mott's Natural Applesauce,Mott's Natural Applesauce,Sides,50,0.0,0.0,0.0,0,0,13,1,11,0,0.0,0.0,0.0,False,False
+Burger King,Onion Rings - large,Onion Rings,Sides,500,25.0,4.5,0.0,0,1310,64,5,7,5,1.0,262.0,45.0,False,True
+Burger King,Onion Rings - medium,Onion Rings,Sides,410,21.0,3.5,0.0,0,1080,53,4,5,4,0.98,263.4,46.1,False,True
+Burger King,Onion Rings - small,Onion Rings,Sides,320,16.0,3.0,0.0,0,840,41,3,4,3,0.94,262.5,45.0,False,True
+Burger King,Onion Rings - value,Onion Rings,Sides,150,8.0,1.5,0.0,0,400,19,1,2,1,0.67,266.7,48.0,False,True
+Burger King,PB&J Jamwich,PB&J Jamwich,Sides,300,16.0,3.0,0.0,0,290,33,4,11,11,3.67,96.7,48.0,False,False
+KFC,7UP (12 fl oz),7UP,Beverages,140,0.0,0.0,0.0,0,50,35,0,35,0,0.0,35.7,0.0,False,True
+KFC,7UP (16 fl oz),7UP,Beverages,190,0.0,0.0,0.0,0,70,46,0,46,0,0.0,36.8,0.0,False,True
+KFC,7UP (20 fl oz),7UP,Beverages,240,0.0,0.0,0.0,0,85,58,0,58,0,0.0,35.4,0.0,False,True
+KFC,7UP (30 fl oz),7UP,Beverages,350,0.0,0.0,0.0,0,125,87,0,87,0,0.0,35.7,0.0,False,True
+KFC,Capri Sun 100% Juice Fruit Punch,Capri Sun 100% Juice Fruit Punch,Beverages,80,0.0,0.0,0.0,0,25,21,0,20,0,0.0,31.2,0.0,False,False
+KFC,Chocolate Milk 1%,Chocolate Milk 1%,Beverages,150,2.5,1.5,0.0,10,170,26,0,23,7,4.67,113.3,15.0,False,False
+KFC,Classic Lemonade (1/2 Gallon),Classic Lemonade (1/2 Gallon),Beverages,880,0.0,0.0,0.0,0,780,234,0,228,0,0.0,88.6,0.0,False,False
+KFC,Classic Lemonade (20 fl oz),Classic Lemonade,Beverages,140,0.0,0.0,0.0,0,130,39,0,38,0,0.0,92.9,0.0,False,False
+KFC,Code Red Mountain Dew (12 fl oz),Code Red Mountain Dew,Beverages,170,0.0,0.0,0.0,0,50,46,0,46,0,0.0,29.4,0.0,False,True
+KFC,Code Red Mountain Dew (16 fl oz),Code Red Mountain Dew,Beverages,230,0.0,0.0,0.0,0,65,62,0,62,0,0.0,28.3,0.0,False,True
+KFC,Code Red Mountain Dew (20 fl oz),Code Red Mountain Dew,Beverages,290,0.0,0.0,0.0,0,85,77,0,77,0,0.0,29.3,0.0,False,True
+KFC,Code Red Mountain Dew (30 fl oz),Code Red Mountain Dew,Beverages,430,0.0,0.0,0.0,0,125,116,0,115,0,0.0,29.1,0.0,False,True
+KFC,Diet Dr Pepper (12 fl oz),Diet Dr Pepper,Beverages,0,0.0,0.0,0.0,0,70,0,0,0,0,,,,True,True
+KFC,Diet Dr Pepper (16 fl oz),Diet Dr Pepper,Beverages,0,0.0,0.0,0.0,0,95,0,0,0,0,,,,True,True
+KFC,Diet Dr Pepper (20 fl oz),Diet Dr Pepper,Beverages,0,0.0,0.0,0.0,0,120,0,0,0,0,,,,True,True
+KFC,Diet Dr Pepper (30 fl oz),Diet Dr Pepper,Beverages,0,0.0,0.0,0.0,0,180,0,0,0,0,,,,True,True
+KFC,Diet Mist Twst (12 fl oz),Diet Mist Twst,Beverages,0,0.0,0.0,0.0,0,35,0,0,0,0,,,,True,True
+KFC,Diet Mist Twst (16 fl oz),Diet Mist Twst,Beverages,0,0.0,0.0,0.0,0,50,0,0,0,0,,,,True,True
+KFC,Diet Mist Twst (20 fl oz),Diet Mist Twst,Beverages,0,0.0,0.0,0.0,0,60,0,0,0,0,,,,True,True
+KFC,Diet Mist Twst (30 fl oz),Diet Mist Twst,Beverages,5,0.0,0.0,0.0,0,95,0,0,0,0,0.0,1900.0,0.0,False,True
+KFC,Diet Mountain Dew (12 fl oz),Diet Mountain Dew,Beverages,0,0.0,0.0,0.0,0,55,1,0,0,0,,,,True,True
+KFC,Diet Mountain Dew (16 fl oz),Diet Mountain Dew,Beverages,5,0.0,0.0,0.0,0,75,1,0,0,0,0.0,1500.0,0.0,False,True
+KFC,Diet Mountain Dew (20 fl oz),Diet Mountain Dew,Beverages,10,0.0,0.0,0.0,0,90,1,0,1,0,0.0,900.0,0.0,False,True
+KFC,Diet Mountain Dew (30 fl oz),Diet Mountain Dew,Beverages,10,0.0,0.0,0.0,0,140,1,0,1,0,0.0,1400.0,0.0,False,True
+KFC,Diet Pepsi (12 fl oz),Diet Pepsi,Beverages,0,0.0,0.0,0.0,0,55,0,0,0,0,,,,True,True
+KFC,Diet Pepsi (16 fl oz),Diet Pepsi,Beverages,0,0.0,0.0,0.0,0,75,0,0,0,0,,,,True,True
+KFC,Diet Pepsi (20 fl oz),Diet Pepsi,Beverages,0,0.0,0.0,0.0,0,95,0,0,0,0,,,,True,True
+KFC,Diet Pepsi (30 fl oz),Diet Pepsi,Beverages,0,0.0,0.0,0.0,0,140,0,0,0,0,,,,True,True
+KFC,Diet Pepsi Wild Cherry Pepsi (12 fl oz),Diet Pepsi Wild Cherry Pepsi,Beverages,0,0.0,0.0,0.0,0,35,0,0,0,0,,,,True,True
+KFC,Diet Pepsi Wild Cherry Pepsi (16 fl oz),Diet Pepsi Wild Cherry Pepsi,Beverages,0,0.0,0.0,0.0,0,50,0,0,0,0,,,,True,True
+KFC,Diet Pepsi Wild Cherry Pepsi (20 fl oz),Diet Pepsi Wild Cherry Pepsi,Beverages,0,0.0,0.0,0.0,0,60,0,0,0,0,,,,True,True
+KFC,Diet Pepsi Wild Cherry Pepsi (30 fl oz),Diet Pepsi Wild Cherry Pepsi,Beverages,0,0.0,0.0,0.0,0,95,0,0,0,0,,,,True,True
+KFC,Dr Pepper (12 fl oz),Dr Pepper,Beverages,140,0.0,0.0,0.0,0,45,39,0,38,0,0.0,32.1,0.0,False,True
+KFC,Dr Pepper (16 fl oz),Dr Pepper,Beverages,190,0.0,0.0,0.0,0,60,52,0,51,0,0.0,31.6,0.0,False,True
+KFC,Dr Pepper (20 fl oz),Dr Pepper,Beverages,240,0.0,0.0,0.0,0,75,65,0,64,0,0.0,31.2,0.0,False,True
+KFC,Dr Pepper (30 fl oz),Dr Pepper,Beverages,360,0.0,0.0,0.0,0,110,98,0,96,0,0.0,30.6,0.0,False,True
+KFC,Lipton Brisk Lemon Tea (12 fl oz),Lipton Brisk Lemon Tea,Beverages,80,0.0,0.0,0.0,0,40,22,0,22,0,0.0,50.0,0.0,False,True
+KFC,Lipton Brisk Lemon Tea (16 fl oz),Lipton Brisk Lemon Tea,Beverages,110,0.0,0.0,0.0,0,55,29,0,29,0,0.0,50.0,0.0,False,True
+KFC,Lipton Brisk Lemon Tea (20 fl oz),Lipton Brisk Lemon Tea,Beverages,140,0.0,0.0,0.0,0,70,36,0,36,0,0.0,50.0,0.0,False,True
+KFC,Lipton Brisk Lemon Tea (30 fl oz),Lipton Brisk Lemon Tea,Beverages,210,0.0,0.0,0.0,0,105,55,0,54,0,0.0,50.0,0.0,False,True
+KFC,Lipton Brisk No Calorie Peach Iced Green Tea (12 fl oz),Lipton Brisk No Calorie Peach Iced Green Tea,Beverages,0,0.0,0.0,0.0,0,105,0,0,0,0,,,,True,True
+KFC,Lipton Brisk No Calorie Peach Iced Green Tea (16 fl oz),Lipton Brisk No Calorie Peach Iced Green Tea,Beverages,0,0.0,0.0,0.0,0,140,0,0,0,0,,,,True,True
+KFC,Lipton Brisk No Calorie Peach Iced Green Tea (20 fl oz),Lipton Brisk No Calorie Peach Iced Green Tea,Beverages,5,0.0,0.0,0.0,0,180,0,0,0,0,0.0,3600.0,0.0,False,True
+KFC,Lipton Brisk No Calorie Peach Iced Green Tea (30 fl oz),Lipton Brisk No Calorie Peach Iced Green Tea,Beverages,10,0.0,0.0,0.0,0,270,0,0,0,0,0.0,2700.0,0.0,False,True
+KFC,Lipton Brisk Raspberry Tea (12 fl oz),Lipton Brisk Raspberry Tea,Beverages,80,0.0,0.0,0.0,0,45,20,0,20,0,0.0,56.2,0.0,False,True
+KFC,Lipton Brisk Raspberry Tea (16 fl oz),Lipton Brisk Raspberry Tea,Beverages,100,0.0,0.0,0.0,0,55,26,0,26,0,0.0,55.0,0.0,False,True
+KFC,Lipton Brisk Raspberry Tea (20 fl oz),Lipton Brisk Raspberry Tea,Beverages,130,0.0,0.0,0.0,0,70,33,0,33,0,0.0,53.8,0.0,False,True
+KFC,Lipton Brisk Raspberry Tea (30 fl oz),Lipton Brisk Raspberry Tea,Beverages,190,0.0,0.0,0.0,0,110,49,0,49,0,0.0,57.9,0.0,False,True
+KFC,Lipton Brisk Sweet Iced Tea (12 fl oz),Lipton Brisk Sweet Iced Tea,Beverages,80,0.0,0.0,0.0,0,45,22,0,21,0,0.0,56.2,0.0,False,True
+KFC,Lipton Brisk Sweet Iced Tea (16 fl oz),Lipton Brisk Sweet Iced Tea,Beverages,110,0.0,0.0,0.0,0,65,29,0,29,0,0.0,59.1,0.0,False,True
+KFC,Lipton Brisk Sweet Iced Tea (20 fl oz),Lipton Brisk Sweet Iced Tea,Beverages,130,0.0,0.0,0.0,0,80,36,0,36,0,0.0,61.5,0.0,False,True
+KFC,Lipton Brisk Sweet Iced Tea (30 fl oz),Lipton Brisk Sweet Iced Tea,Beverages,200,0.0,0.0,0.0,0,120,54,0,54,0,0.0,60.0,0.0,False,True
+KFC,Lipton Brisk Unsweetened No Lemon Iced Tea (12 fl oz),Lipton Brisk Unsweetened No Lemon Iced Tea,Beverages,0,0.0,0.0,0.0,0,45,0,0,0,0,,,,True,True
+KFC,Lipton Brisk Unsweetened No Lemon Iced Tea (16 fl oz),Lipton Brisk Unsweetened No Lemon Iced Tea,Beverages,0,0.0,0.0,0.0,0,60,0,0,0,0,,,,True,True
+KFC,Lipton Brisk Unsweetened No Lemon Iced Tea (20 fl oz),Lipton Brisk Unsweetened No Lemon Iced Tea,Beverages,0,0.0,0.0,0.0,0,75,0,0,0,0,,,,True,True
+KFC,Lipton Brisk Unsweetened No Lemon Iced Tea (30 fl oz),Lipton Brisk Unsweetened No Lemon Iced Tea,Beverages,0,0.0,0.0,0.0,0,115,0,0,0,0,,,,True,True
+KFC,MNT DEW Sweet Lightning (20 fl oz),MNT DEW Sweet Lightning,Beverages,120,0.0,0.0,0.0,0,190,32,0,25,0,0.0,158.3,0.0,False,False
+KFC,Manzanita Sol (12 fl oz),Manzanita Sol,Beverages,160,0.0,0.0,0.0,0,35,42,0,42,0,0.0,21.9,0.0,False,True
+KFC,Manzanita Sol (16 fl oz),Manzanita Sol,Beverages,210,0.0,0.0,0.0,0,45,57,0,57,0,0.0,21.4,0.0,False,True
+KFC,Manzanita Sol (20 fl oz),Manzanita Sol,Beverages,260,0.0,0.0,0.0,0,55,71,0,71,0,0.0,21.2,0.0,False,True
+KFC,Manzanita Sol (30 fl oz),Manzanita Sol,Beverages,400,0.0,0.0,0.0,0,80,106,0,106,0,0.0,20.0,0.0,False,True
+KFC,Milk 1%,Milk 1%,Beverages,90,2.0,1.5,0.0,10,105,10,0,10,7,7.78,116.7,20.0,False,False
+KFC,Miranda Strawberry (12 fl oz),Miranda Strawberry,Beverages,160,0.0,0.0,0.0,0,70,44,0,44,0,0.0,43.8,0.0,False,True
+KFC,Miranda Strawberry (16 fl oz),Miranda Strawberry,Beverages,220,0.0,0.0,0.0,0,95,58,0,58,0,0.0,43.2,0.0,False,True
+KFC,Miranda Strawberry (20 fl oz),Miranda Strawberry,Beverages,270,0.0,0.0,0.0,0,120,73,0,73,0,0.0,44.4,0.0,False,True
+KFC,Miranda Strawberry (30 fl oz),Miranda Strawberry,Beverages,410,0.0,0.0,0.0,0,180,109,0,109,0,0.0,43.9,0.0,False,True
+KFC,Mist Twst (12 fl oz),Mist Twst,Beverages,150,0.0,0.0,0.0,0,35,41,0,41,0,0.0,23.3,0.0,False,True
+KFC,Mist Twst (16 fl oz),Mist Twst,Beverages,200,0.0,0.0,0.0,0,45,54,0,54,0,0.0,22.5,0.0,False,True
+KFC,Mist Twst (20 fl oz),Mist Twst,Beverages,260,0.0,0.0,0.0,0,55,68,0,68,0,0.0,21.2,0.0,False,True
+KFC,Mist Twst (30 fl oz),Mist Twst,Beverages,380,0.0,0.0,0.0,0,80,101,0,101,0,0.0,21.1,0.0,False,True
+KFC,Mountain Dew (12 fl oz),Mountain Dew,Beverages,160,0.0,0.0,0.0,0,50,44,0,44,0,0.0,31.2,0.0,False,True
+KFC,Mountain Dew (16 fl oz),Mountain Dew,Beverages,220,0.0,0.0,0.0,0,70,59,0,58,0,0.0,31.8,0.0,False,True
+KFC,Mountain Dew (20 fl oz),Mountain Dew,Beverages,270,0.0,0.0,0.0,0,85,73,0,73,0,0.0,31.5,0.0,False,True
+KFC,Mountain Dew (30 fl oz),Mountain Dew,Beverages,410,0.0,0.0,0.0,0,125,110,0,109,0,0.0,30.5,0.0,False,True
+KFC,Mug Root Beer (12 fl oz),Mug Root Beer,Beverages,140,0.0,0.0,0.0,0,45,39,0,39,0,0.0,32.1,0.0,False,True
+KFC,Mug Root Beer (16 fl oz),Mug Root Beer,Beverages,190,0.0,0.0,0.0,0,60,52,0,52,0,0.0,31.6,0.0,False,True
+KFC,Mug Root Beer (20 fl oz),Mug Root Beer,Beverages,240,0.0,0.0,0.0,0,75,65,0,65,0,0.0,31.2,0.0,False,True
+KFC,Mug Root Beer (30 fl oz),Mug Root Beer,Beverages,360,0.0,0.0,0.0,0,110,98,0,98,0,0.0,30.6,0.0,False,True
+KFC,Pepsi (12 fl oz),Pepsi,Beverages,150,0.0,0.0,0.0,0,30,41,0,41,0,0.0,20.0,0.0,False,True
+KFC,Pepsi (16 fl oz),Pepsi,Beverages,200,0.0,0.0,0.0,0,45,55,0,55,0,0.0,22.5,0.0,False,True
+KFC,Pepsi (20 fl oz),Pepsi,Beverages,250,0.0,0.0,0.0,0,55,69,0,69,0,0.0,22.0,0.0,False,True
+KFC,Pepsi (30 fl oz),Pepsi,Beverages,380,0.0,0.0,0.0,0,80,104,0,103,0,0.0,21.1,0.0,False,True
+KFC,Pepsi Zero Sugar (12 fl oz),Pepsi Zero Sugar,Beverages,0,0.0,0.0,0.0,0,35,0,0,0,0,,,,True,True
+KFC,Pepsi Zero Sugar (16 fl oz),Pepsi Zero Sugar,Beverages,0,0.0,0.0,0.0,0,50,0,0,0,0,,,,True,True
+KFC,Pepsi Zero Sugar (20 fl oz),Pepsi Zero Sugar,Beverages,0,0.0,0.0,0.0,0,60,0,0,0,0,,,,True,True
+KFC,Pepsi Zero Sugar (30 fl oz),Pepsi Zero Sugar,Beverages,0,0.0,0.0,0.0,0,95,1,0,0,0,,,,True,True
+KFC,Sobe Lifewater Yumberry Pomegranate (12 fl oz),Sobe Lifewater Yumberry Pomegranate,Beverages,0,0.0,0.0,0.0,0,45,0,0,0,0,,,,True,True
+KFC,Sobe Lifewater Yumberry Pomegranate (16 fl oz),Sobe Lifewater Yumberry Pomegranate,Beverages,0,0.0,0.0,0.0,0,65,0,0,0,0,,,,True,True
+KFC,Sobe Lifewater Yumberry Pomegranate (20 fl oz),Sobe Lifewater Yumberry Pomegranate,Beverages,0,0.0,0.0,0.0,0,80,0,0,0,0,,,,True,True
+KFC,Sobe Lifewater Yumberry Pomegranate (30 fl oz),Sobe Lifewater Yumberry Pomegranate,Beverages,5,0.0,0.0,0.0,0,120,1,0,0,0,0.0,2400.0,0.0,False,True
+KFC,Strawberry Lemonade (1/2 Gallon),Strawberry Lemonade (1/2 Gallon),Beverages,950,0.0,0.0,0.0,0,790,270,0,264,0,0.0,83.2,0.0,False,False
+KFC,Strawberry Lemonade (20 fl oz),Strawberry Lemonade,Beverages,170,0.0,0.0,0.0,0,130,45,0,44,0,0.0,76.5,0.0,False,False
+KFC,Tropicana Fruit Punch (12 fl oz),Tropicana Fruit Punch,Beverages,170,0.0,0.0,0.0,0,35,45,0,45,0,0.0,20.6,0.0,False,True
+KFC,Tropicana Fruit Punch (16 fl oz),Tropicana Fruit Punch,Beverages,230,0.0,0.0,0.0,0,45,60,0,60,0,0.0,19.6,0.0,False,True
+KFC,Tropicana Fruit Punch (20 fl oz),Tropicana Fruit Punch,Beverages,280,0.0,0.0,0.0,0,60,75,0,75,0,0.0,21.4,0.0,False,True
+KFC,Tropicana Fruit Punch (30 fl oz),Tropicana Fruit Punch,Beverages,420,0.0,0.0,0.0,0,90,113,0,112,0,0.0,21.4,0.0,False,True
+KFC,Tropicana Light Lemonade (12 fl oz),Tropicana Light Lemonade,Beverages,5,0.0,0.0,0.0,0,140,0,0,0,0,0.0,2800.0,0.0,False,True
+KFC,Tropicana Light Lemonade (16 fl oz),Tropicana Light Lemonade,Beverages,10,0.0,0.0,0.0,0,190,0,0,0,0,0.0,1900.0,0.0,False,True
+KFC,Tropicana Light Lemonade (20 fl oz),Tropicana Light Lemonade,Beverages,10,0.0,0.0,0.0,0,240,0,0,0,0,0.0,2400.0,0.0,False,True
+KFC,Tropicana Light Lemonade (30 fl oz),Tropicana Light Lemonade,Beverages,15,0.0,0.0,0.0,0,350,1,0,0,0,0.0,2333.3,0.0,False,True
+KFC,Tropicana Pink Lemonade (12 fl oz),Tropicana Pink Lemonade,Beverages,150,0.0,0.0,0.0,0,160,40,0,40,0,0.0,106.7,0.0,False,True
+KFC,Tropicana Pink Lemonade (16 fl oz),Tropicana Pink Lemonade,Beverages,210,0.0,0.0,0.0,0,210,53,0,53,0,0.0,100.0,0.0,False,True
+KFC,Tropicana Pink Lemonade (20 fl oz),Tropicana Pink Lemonade,Beverages,260,0.0,0.0,0.0,0,260,67,0,67,0,0.0,100.0,0.0,False,True
+KFC,Tropicana Pink Lemonade (30 fl oz),Tropicana Pink Lemonade,Beverages,390,0.0,0.0,0.0,0,390,100,0,100,0,0.0,100.0,0.0,False,True
+KFC,Tropicana Twister Orange (12 fl oz),Tropicana Twister Orange,Beverages,170,0.0,0.0,0.0,0,35,46,0,46,0,0.0,20.6,0.0,False,True
+KFC,Tropicana Twister Orange (16 fl oz),Tropicana Twister Orange,Beverages,230,0.0,0.0,0.0,0,50,61,0,61,0,0.0,21.7,0.0,False,True
+KFC,Tropicana Twister Orange (20 fl oz),Tropicana Twister Orange,Beverages,290,0.0,0.0,0.0,0,60,76,0,76,0,0.0,20.7,0.0,False,True
+KFC,Tropicana Twister Orange (30 fl oz),Tropicana Twister Orange,Beverages,430,0.0,0.0,0.0,0,90,115,0,114,0,0.0,20.9,0.0,False,True
+KFC,Wild Cherry Pepsi (12 fl oz),Wild Cherry Pepsi,Beverages,160,0.0,0.0,0.0,0,30,42,0,42,0,0.0,18.8,0.0,False,True
+KFC,Wild Cherry Pepsi (16 fl oz),Wild Cherry Pepsi,Beverages,210,0.0,0.0,0.0,0,40,56,0,56,0,0.0,19.0,0.0,False,True
+KFC,Wild Cherry Pepsi (20 fl oz),Wild Cherry Pepsi,Beverages,260,0.0,0.0,0.0,0,50,70,0,70,0,0.0,19.2,0.0,False,True
+KFC,Wild Cherry Pepsi (30 fl oz),Wild Cherry Pepsi,Beverages,390,0.0,0.0,0.0,0,80,105,0,105,0,0.0,20.5,0.0,False,True
+KFC,Biscuit,Biscuit,Breakfast,180,8.0,4.5,0.0,0,520,22,1,1,4,2.22,288.9,40.0,False,False
+KFC,Limited Time Cinnabon Dessert Biscuits,Limited Time Cinnabon Dessert Biscuits,Breakfast,290,13.0,7.0,0.0,0,580,40,2,17,4,1.38,200.0,40.3,False,False
+KFC,Crispy Colonel's Sandwich,Crispy Colonel's Sandwich,Burgers & Sandwiches,470,24.0,3.5,0.0,60,1170,39,0,4,24,5.11,248.9,46.0,False,False
+KFC,Crispy Colonel's Sandwich - Buffalo,Crispy Colonel's Sandwich - Buffalo,Burgers & Sandwiches,500,27.0,4.0,0.0,60,1500,39,0,4,24,4.8,300.0,48.6,False,False
+KFC,Crispy Colonel's Sandwich - Honey BBQ,Crispy Colonel's Sandwich - Honey BBQ,Burgers & Sandwiches,510,25.0,3.5,0.0,60,1290,48,0,12,24,4.71,252.9,44.1,False,False
+KFC,Crispy Colonel's Sandwich - Nashville Hot,Crispy Colonel's Sandwich - Nashville Hot,Burgers & Sandwiches,540,32.0,4.5,0.0,60,1290,40,0,5,24,4.44,238.9,53.3,False,False
+KFC,Honey BBQ Sandwich,Honey BBQ Sandwich,Burgers & Sandwiches,350,3.5,0.5,0.0,55,1350,55,2,22,24,6.86,385.7,9.0,False,False
+KFC,Breast,Breast,Chicken,260,12.0,3.0,0.0,130,790,1,0,0,38,14.62,303.8,41.5,False,False
+KFC,Chicken Breast,Chicken Breast,Chicken,770,60.0,10.0,0.0,105,1530,21,1,1,35,4.55,198.7,70.1,False,False
+KFC,Chicken Drumstick,Chicken Drumstick,Chicken,250,21.0,3.5,0.0,50,530,6,1,0,11,4.4,212.0,75.6,False,False
+KFC,Chicken Littles,Chicken Littles,Chicken,300,15.0,2.5,0.0,30,620,27,1,3,14,4.67,206.7,45.0,False,False
+KFC,Chicken Littles - Buffalo,Chicken Littles - Buffalo,Chicken,310,17.0,2.5,0.0,30,790,27,1,3,14,4.52,254.8,49.4,False,False
+KFC,Chicken Littles - Honey BBQ,Chicken Littles - Honey BBQ,Chicken,320,15.0,2.5,0.0,30,680,31,1,7,14,4.38,212.5,42.2,False,False
+KFC,Chicken Littles - Nashville Hot,Chicken Littles - Nashville Hot,Chicken,340,19.0,3.0,0.0,30,680,27,1,3,14,4.12,200.0,50.3,False,False
+KFC,Chicken Pot Pie,Chicken Pot Pie,Chicken,720,41.0,25.0,0.0,80,1750,60,7,5,26,3.61,243.1,51.2,False,False
+KFC,Chicken Thigh,Chicken Thigh,Chicken,500,40.0,7.0,0.0,100,970,11,1,1,22,4.4,194.0,72.0,False,False
+KFC,Chicken Whole Wing,Chicken Whole Wing,Chicken,290,25.0,4.0,0.0,45,520,6,1,1,10,3.45,179.3,77.6,False,False
+KFC,Classic Chicken Sandwich,Classic Chicken Sandwich,Chicken,650,35.0,4.5,0.0,90,1260,49,1,6,34,5.23,193.8,48.5,False,False
+KFC,Crispy Twister,Crispy Twister,Chicken,630,34.0,7.0,0.0,70,1260,53,4,3,28,4.44,200.0,48.6,False,False
+KFC,Drumstick,Drumstick,Chicken,100,6.0,1.5,0.0,55,260,0,0,0,11,11.0,260.0,54.0,False,False
+KFC,EXTRA CRISPY Chicken Breast,EXTRA CRISPY Chicken Breast,Chicken,530,35.0,6.0,0.0,105,1150,18,0,0,35,6.6,217.0,59.4,False,False
+KFC,EXTRA CRISPY Chicken Drumstick,EXTRA CRISPY Chicken Drumstick,Chicken,170,12.0,2.0,0.0,50,390,5,0,0,10,5.88,229.4,63.5,False,False
+KFC,EXTRA CRISPY Chicken Thigh,EXTRA CRISPY Chicken Thigh,Chicken,330,23.0,4.5,0.0,100,700,9,0,0,22,6.67,212.1,62.7,False,False
+KFC,EXTRA CRISPY Chicken Whole Wing,EXTRA CRISPY Chicken Whole Wing,Chicken,170,13.0,2.0,0.0,45,340,5,0,0,10,5.88,200.0,68.8,False,False
+KFC,EXTRA CRISPY Tender (each),EXTRA CRISPY Tender,Chicken,260,14.0,2.0,0.0,50,610,15,0,0,19,7.31,234.6,48.5,False,False
+KFC,KENTUCKY FRIED WINGS Buffalo,KENTUCKY FRIED WINGS Buffalo,Chicken,100,7.0,1.5,0.0,20,310,3,0,0,5,5.0,310.0,63.0,False,False
+KFC,KENTUCKY FRIED WINGS Honey BBQ,KENTUCKY FRIED WINGS Honey BBQ,Chicken,100,6.0,1.0,0.0,20,210,8,0,4,5,5.0,210.0,54.0,False,False
+KFC,KENTUCKY FRIED WINGS Nashville Hot,KENTUCKY FRIED WINGS Nashville Hot,Chicken,130,11.0,2.0,0.0,20,230,4,0,0,5,3.85,176.9,76.2,False,False
+KFC,KENTUCKY FRIED WINGS Unsauced,KENTUCKY FRIED WINGS Unsauced,Chicken,80,6.0,1.0,0.0,20,150,3,0,0,5,6.25,187.5,67.5,False,False
+KFC,KENTUCKY GRILLED CHICKEN Breast,KENTUCKY GRILLED CHICKEN Breast,Chicken,210,7.0,2.0,0.0,130,710,0,0,0,38,18.1,338.1,30.0,False,False
+KFC,KENTUCKY GRILLED CHICKEN Drumstick,KENTUCKY GRILLED CHICKEN Drumstick,Chicken,80,4.0,1.0,0.0,55,220,0,0,0,11,13.75,275.0,45.0,False,False
+KFC,KENTUCKY GRILLED CHICKEN Thigh,KENTUCKY GRILLED CHICKEN Thigh,Chicken,150,9.0,3.0,0.0,90,420,0,0,0,17,11.33,280.0,54.0,False,False
+KFC,KENTUCKY GRILLED CHICKEN Whole Wing,KENTUCKY GRILLED CHICKEN Whole Wing,Chicken,70,3.0,1.0,0.0,45,180,0,0,0,9,12.86,257.1,38.6,False,False
+KFC,KFC Famous Bowl,KFC Famous Bowl,Chicken,740,35.0,6.0,0.0,45,2350,81,6,2,26,3.51,317.6,42.6,False,False
+KFC,KFC Famous Bowl - Snack Size,KFC Famous Bowl - Snack Size,Chicken,270,14.0,3.5,0.0,20,850,27,2,1,11,4.07,314.8,46.7,False,False
+KFC,KFC Gizzards,KFC Gizzards,Chicken,300,16.0,2.0,0.0,210,770,18,0,0,20,6.67,256.7,48.0,False,False
+KFC,KFC Livers,KFC Livers,Chicken,230,13.0,2.5,0.0,285,750,12,0,0,17,7.39,326.1,50.9,False,False
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast,Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast,Chicken,390,21.0,4.0,0.0,120,1190,11,2,0,39,10.0,305.1,48.5,False,False
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick,Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick,Chicken,130,8.0,1.5,0.0,55,430,4,1,0,12,9.23,330.8,55.4,False,False
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh,Limited Time ORIGINAL RECIPE CHICKEN Chicken Thigh,Chicken,280,19.0,4.5,0.0,100,910,8,1,0,19,6.79,325.0,61.1,False,False
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing,Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing,Chicken,130,8.0,2.0,0.0,55,380,3,0,0,10,7.69,292.3,55.4,False,False
+KFC,POPCORN NUGGETS Kids,POPCORN NUGGETS,Chicken,290,19.0,2.5,0.0,30,870,19,1,0,13,4.48,300.0,59.0,False,True
+KFC,POPCORN NUGGETS Large,POPCORN NUGGETS,Chicken,620,39.0,5.0,0.0,65,1820,39,2,0,27,4.35,293.5,56.6,False,True
+KFC,SPICY CRISPY CHICKEN Breast,SPICY CRISPY CHICKEN Breast,Chicken,350,20.0,3.5,0.0,100,1100,11,1,0,30,8.57,314.3,51.4,False,False
+KFC,SPICY CRISPY CHICKEN Drumstick,SPICY CRISPY CHICKEN Drumstick,Chicken,130,8.0,1.5,0.0,40,420,5,1,0,9,6.92,323.1,55.4,False,False
+KFC,SPICY CRISPY CHICKEN Thigh,SPICY CRISPY CHICKEN Thigh,Chicken,270,20.0,3.5,0.0,65,720,10,1,0,13,4.81,266.7,66.7,False,False
+KFC,SPICY CRISPY CHICKEN Whole Wing,SPICY CRISPY CHICKEN Whole Wing,Chicken,120,8.0,1.5,0.0,35,350,5,0,0,7,5.83,291.7,60.0,False,False
+KFC,Spicy Chicken Sandwich,Spicy Chicken Sandwich,Chicken,620,33.0,4.0,0.0,85,2140,49,1,6,34,5.48,345.2,47.9,False,False
+KFC,Thigh,Thigh,Chicken,180,12.0,3.5,0.0,90,470,0,0,0,17,9.44,261.1,60.0,False,False
+KFC,Whole Wing,Whole Wing,Chicken,90,6.0,1.5,0.0,45,210,1,0,0,9,10.0,233.3,60.0,False,False
+KFC,Café Valley Chocolate Chip Cake (1 Slice),Café Valley Chocolate Chip Cake,Desserts & Shakes,300,15.0,3.0,0.0,50,260,39,1,27,4,1.33,86.7,45.0,False,False
+KFC,Café Valley Lemon Cake (1 Slice),Café Valley Lemon Cake,Desserts & Shakes,220,10.0,2.0,0.0,30,170,30,0,20,2,0.91,77.3,40.9,False,False
+KFC,Café Valley Mini Chocolate Chip Cake,Café Valley Mini Chocolate Chip Cake,Desserts & Shakes,300,12.0,2.5,0.0,40,190,49,1,35,3,1.0,63.3,36.0,False,False
+KFC,Café Valley Mini Lemon Cake,Café Valley Mini Lemon Cake,Desserts & Shakes,300,13.0,2.5,0.0,50,230,43,0,31,3,1.0,76.7,39.0,False,False
+KFC,Chocolate Chip Cookie,Chocolate Chip Cookie,Desserts & Shakes,120,6.0,3.0,0.0,0,70,18,1,12,1,0.83,58.3,45.0,False,False
+KFC,Oreo Cookies and Crème Pie,Oreo Cookies and Crème Pie,Desserts & Shakes,270,13.0,8.0,0.0,0,210,35,1,24,3,1.11,77.8,43.3,False,False
+KFC,Reese's Peanut Butter Pie,Reese's Peanut Butter Pie,Desserts & Shakes,300,17.0,9.0,0.0,0,270,33,1,22,5,1.67,90.0,51.0,False,False
+KFC,Caesar Side Salad,Caesar Side Salad,Salads,40,2.0,1.0,0.0,5,90,2,1,1,3,7.5,225.0,45.0,False,False
+KFC,House Side Salad,House Side Salad,Salads,15,0.0,0.0,0.0,0,10,3,2,2,1,6.67,66.7,0.0,False,False
+KFC,BBQ - Dipping Sauce Cup,BBQ - Dipping Sauce Cup,Sauces & Condiments,45,0.0,0.0,0.0,0,150,11,0,11,0,0.0,333.3,0.0,False,False
+KFC,Colonel's Buttery Spread,Colonel's Buttery Spread,Sauces & Condiments,35,4.0,1.5,0.0,0,35,0,0,0,0,0.0,100.0,102.9,False,False
+KFC,Grape Jelly Packet,Grape Jelly Packet,Sauces & Condiments,35,0.0,0.0,0.0,0,10,9,0,7,0,0.0,28.6,0.0,False,False
+KFC,Heinz Buttermilk Dressing,Heinz Buttermilk Dressing,Sauces & Condiments,160,17.0,2.0,0.0,10,220,1,0,1,0,0.0,137.5,95.6,False,False
+KFC,Hidden Valley The Original Ranch Fat Free Dressing,Hidden Valley The Original Ranch Fat Free Dressing,Sauces & Condiments,35,0.0,0.0,0.0,0,410,8,0,2,1,2.86,1171.4,0.0,False,False
+KFC,Honey Mustard - Dipping Sauce Cup,Honey Mustard - Dipping Sauce Cup,Sauces & Condiments,110,9.0,1.5,0.0,0,120,6,0,6,0,0.0,109.1,73.6,False,False
+KFC,Honey Sauce Packet,Honey Sauce Packet,Sauces & Condiments,30,0.0,0.0,0.0,0,0,8,0,5,0,0.0,0.0,0.0,False,False
+KFC,KFC Creamy Parmesan Caesar Dressing,KFC Creamy Parmesan Caesar Dressing,Sauces & Condiments,260,26.0,5.0,0.0,15,540,4,0,2,2,0.77,207.7,90.0,False,False
+KFC,KFC Sauce - Dipping Sauce Cup,KFC Sauce - Dipping Sauce Cup,Sauces & Condiments,90,8.0,1.5,0.0,10,170,5,0,5,0,0.0,188.9,80.0,False,False
+KFC,Ketchup,Ketchup,Sauces & Condiments,30,0.0,0.0,0.0,0,250,8,0,6,0,0.0,833.3,0.0,False,False
+KFC,Lemon Juice Packet,Lemon Juice Packet,Sauces & Condiments,5,0.0,0.0,0.0,0,20,1,0,0,0,0.0,400.0,0.0,False,False
+KFC,Marzetti Light Italian Dressing,Marzetti Light Italian Dressing,Sauces & Condiments,15,0.5,0.0,0.0,0,510,2,0,1,0,0.0,3400.0,30.0,False,False
+KFC,Parmesan Garlic Croutons,Parmesan Garlic Croutons,Sauces & Condiments,60,3.0,0.0,0.0,0,135,8,0,0,2,3.33,225.0,45.0,False,False
+KFC,Ranch - Dipping Sauce Cup,Ranch - Dipping Sauce Cup,Sauces & Condiments,130,14.0,2.5,0.0,10,240,2,0,1,0,0.0,184.6,96.9,False,False
+KFC,Strawberry Jam Packet,Strawberry Jam Packet,Sauces & Condiments,35,0.0,0.0,0.0,0,0,9,0,6,0,0.0,0.0,0.0,False,False
+KFC,Apple Turnover,Apple Turnover,Sides,230,10.0,2.5,0.0,0,140,32,0,12,2,0.87,60.9,39.1,False,False
+KFC,BBQ Baked Beans,BBQ Baked Beans,Sides,190,1.0,0.0,0.0,0,650,34,7,15,11,5.79,342.1,4.7,False,True
+KFC,BBQ Baked Beans (Family),BBQ Baked Beans,Sides,830,5.0,1.0,0.0,0,2810,148,31,63,47,5.66,338.6,5.4,False,True
+KFC,Coleslaw,Coleslaw,Sides,170,12.0,2.0,0.0,0,180,14,4,10,1,0.59,105.9,63.5,False,True
+KFC,Coleslaw (Family),Coleslaw,Sides,640,46.0,7.0,0.0,15,670,54,14,37,4,0.62,104.7,64.7,False,True
+KFC,Corn on the Cob,Corn on the Cob,Sides,70,0.5,0.0,0.0,0,0,17,2,3,2,2.86,0.0,6.4,False,True
+KFC,Corn on the Cob (Family),Corn on the Cob,Sides,280,2.0,0.0,0.0,0,15,67,8,11,9,3.21,5.4,6.4,False,True
+KFC,Country Fried Steak with Peppered White Gravy,Country Fried Steak with Peppered White Gravy,Sides,390,26.0,7.0,1.0,35,910,26,2,0,13,3.33,233.3,60.0,False,False
+KFC,Country Fried Steak without Peppered White Gravy,Country Fried Steak without Peppered White Gravy,Sides,360,24.0,7.0,1.0,35,750,22,2,0,13,3.61,208.3,60.0,False,False
+KFC,Green Beans,Green Beans,Sides,25,0.0,0.0,0.0,0,300,5,3,1,1,4.0,1200.0,0.0,False,True
+KFC,Green Beans (Family),Green Beans,Sides,80,0.0,0.0,0.0,0,930,15,9,3,4,5.0,1162.5,0.0,False,True
+KFC,KFC Cornbread Muffin,KFC Cornbread Muffin,Sides,210,9.0,1.5,0.0,35,240,28,0,11,3,1.43,114.3,38.6,False,False
+KFC,Macaroni & Cheese,Macaroni & Cheese,Sides,140,6.0,1.5,0.0,0,590,17,1,2,5,3.57,421.4,38.6,False,True
+KFC,Macaroni & Cheese (Family),Macaroni & Cheese,Sides,540,23.0,6.0,0.0,10,2220,66,5,8,18,3.33,411.1,38.3,False,True
+KFC,Macaroni Salad,Macaroni Salad,Sides,140,8.0,1.0,0.0,15,290,14,0,9,1,0.71,207.1,51.4,False,True
+KFC,Macaroni Salad (Family),Macaroni Salad,Sides,480,28.0,3.5,0.0,55,990,50,0,30,3,0.62,206.2,52.5,False,True
+KFC,Mashed Potatoes,Mashed Potatoes,Sides,110,3.5,0.5,0.0,0,330,17,1,0,2,1.82,300.0,28.6,False,True
+KFC,Mashed Potatoes (Family),Mashed Potatoes,Sides,460,15.0,3.0,0.0,0,1410,72,6,0,9,1.96,306.5,29.3,False,True
+KFC,Mashed Potatoes With Gravy,Mashed Potatoes With Gravy,Sides,130,4.5,1.0,0.0,0,520,20,1,0,3,2.31,400.0,31.2,False,True
+KFC,Mashed Potatoes With Gravy (Family),Mashed Potatoes With Gravy,Sides,590,21.0,5.0,0.0,0,2590,88,6,1,12,2.03,439.0,32.0,False,True
+KFC,Musselman's Applesauce,Musselman's Applesauce,Sides,45,0.0,0.0,0.0,0,0,12,1,8,0,0.0,0.0,0.0,False,False
+KFC,Potato Salad,Potato Salad,Sides,340,28.0,4.5,0.0,25,290,19,2,3,2,0.59,85.3,74.1,False,True
+KFC,Potato Salad (Family),Potato Salad,Sides,1200,98.0,16.0,0.0,80,1010,65,8,12,8,0.67,84.2,73.5,False,True
+KFC,Secret Recipe Fries,Secret Recipe Fries,Sides,320,15.0,2.0,0.0,0,1100,41,3,0,5,1.56,343.8,42.2,False,True
+KFC,Secret Recipe Fries (Family),Secret Recipe Fries,Sides,840,40.0,5.0,0.0,0,2890,108,9,0,13,1.55,344.0,42.9,False,True
+KFC,Sweet Kernel Corn,Sweet Kernel Corn,Sides,70,0.5,0.0,0.0,0,0,16,2,2,2,2.86,0.0,6.4,False,True
+KFC,Sweet Kernel Corn (Family),Sweet Kernel Corn,Sides,280,2.5,0.0,0.0,0,10,67,7,8,10,3.57,3.6,8.0,False,True
+McDonald's,1% Low Fat Chocolate Milk Jug,1% Low Fat Chocolate Milk Jug,Beverages,170,3.0,1.5,0.0,5,150,26,1,25,9,5.29,88.2,15.9,False,False
+McDonald's,1% Low Fat Milk Jug,1% Low Fat Milk Jug,Beverages,100,2.5,1.5,0.0,10,125,12,0,12,8,8.0,125.0,22.5,False,False
+McDonald's,Cappuccino (Large),Cappuccino,Beverages,180,10.0,6.0,0.0,30,130,13,0,13,9,5.0,72.2,50.0,False,True
+McDonald's,Cappuccino (Medium),Cappuccino,Beverages,140,8.0,4.5,0.0,25,105,11,0,11,8,5.71,75.0,51.4,False,True
+McDonald's,Cappuccino (Small),Cappuccino,Beverages,120,7.0,4.0,0.0,20,85,9,0,9,6,5.0,70.8,52.5,False,True
+McDonald's,Cappuccino with Sugar Free Vanilla Syrup (Large),Cappuccino with Sugar Free Vanilla Syrup,Beverages,150,8.0,4.5,0.0,25,160,22,0,11,8,5.33,106.7,48.0,False,True
+McDonald's,Cappuccino with Sugar Free Vanilla Syrup (Medium),Cappuccino with Sugar Free Vanilla Syrup,Beverages,120,6.0,3.5,0.0,20,130,18,0,9,6,5.0,108.3,45.0,False,True
+McDonald's,Cappuccino with Sugar Free Vanilla Syrup (Small),Cappuccino with Sugar Free Vanilla Syrup,Beverages,100,5.0,3.0,0.0,15,105,15,0,7,5,5.0,105.0,45.0,False,True
+McDonald's,Caramel Cappuccino (Large),Caramel Cappuccino,Beverages,290,8.0,4.5,0.0,25,190,49,0,49,8,2.76,65.5,24.8,False,True
+McDonald's,Caramel Cappuccino (Medium),Caramel Cappuccino,Beverages,240,6.0,3.5,0.0,20,150,41,0,40,6,2.5,62.5,22.5,False,True
+McDonald's,Caramel Cappuccino (Small),Caramel Cappuccino,Beverages,200,5.0,3.0,0.0,15,125,32,0,32,5,2.5,62.5,22.5,False,True
+McDonald's,Caramel Latte (Large),Caramel Latte,Beverages,330,9.0,5.0,0.0,30,210,52,0,51,9,2.73,63.6,24.5,False,True
+McDonald's,Caramel Latte (Medium),Caramel Latte,Beverages,280,8.0,4.5,0.0,25,170,43,0,43,8,2.86,60.7,25.7,False,True
+McDonald's,Caramel Latte (Small),Caramel Latte,Beverages,230,7.0,4.0,0.0,20,140,35,0,35,7,3.04,60.9,27.4,False,True
+McDonald's,Caramel Mocha (Large),Caramel Mocha,Beverages,360,14.0,8.0,0.5,35,220,47,0,46,10,2.78,61.1,35.0,False,True
+McDonald's,Caramel Mocha (Medium),Caramel Mocha,Beverages,290,12.0,7.0,0.0,25,180,39,0,38,8,2.76,62.1,37.2,False,True
+McDonald's,Caramel Mocha (Small),Caramel Mocha,Beverages,250,11.0,6.0,0.0,25,150,33,0,31,7,2.8,60.0,39.6,False,True
+McDonald's,Coca-Cola Classic (Child),Coca-Cola Classic,Beverages,110,0.0,0.0,0.0,0,5,29,0,29,0,0.0,4.5,0.0,False,True
+McDonald's,Coca-Cola Classic (Large),Coca-Cola Classic,Beverages,310,0.0,0.0,0.0,0,20,86,0,86,0,0.0,6.5,0.0,False,True
+McDonald's,Coca-Cola Classic (Medium),Coca-Cola Classic,Beverages,210,0.0,0.0,0.0,0,15,58,0,58,0,0.0,7.1,0.0,False,True
+McDonald's,Coca-Cola Classic (Small),Coca-Cola Classic,Beverages,150,0.0,0.0,0.0,0,10,40,0,40,0,0.0,6.7,0.0,False,True
+McDonald's,Coffee (Large),Coffee,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+McDonald's,Coffee (Small),Coffee,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,True
+McDonald's,Coffee Cream,Coffee Cream,Beverages,20,2.0,1.5,0.0,10,15,0,0,0,0,0.0,75.0,90.0,False,False
+McDonald's,Dasani Water,Dasani Water,Beverages,0,0.0,0.0,0.0,0,0,0,0,0,0,,,,True,False
+McDonald's,Diet Coke (Child),Diet Coke,Beverages,0,0.0,0.0,0.0,0,15,0,0,0,0,,,,True,True
+McDonald's,Diet Coke (Large),Diet Coke,Beverages,0,0.0,0.0,0.0,0,45,0,0,0,0,,,,True,True
+McDonald's,Diet Coke (Medium),Diet Coke,Beverages,0,0.0,0.0,0.0,0,30,0,0,0,0,,,,True,True
+McDonald's,Diet Coke (Small),Diet Coke,Beverages,0,0.0,0.0,0.0,0,20,0,0,0,0,,,,True,True
+McDonald's,Frappe Caramel (Large),Frappe Caramel,Beverages,680,29.0,18.0,1.5,85,200,94,0,88,10,1.47,29.4,38.4,False,True
+McDonald's,Frappe Caramel (Medium),Frappe Caramel,Beverages,550,24.0,15.0,1.0,70,160,76,0,71,8,1.45,29.1,39.3,False,True
+McDonald's,Frappe Caramel (Small),Frappe Caramel,Beverages,450,20.0,13.0,1.0,55,135,61,0,57,6,1.33,30.0,40.0,False,True
+McDonald's,Frappe Mocha (Large),Frappe Mocha,Beverages,680,28.0,18.0,1.0,80,200,96,1,87,10,1.47,29.4,37.1,False,True
+McDonald's,Frappe Mocha (Medium),Frappe Mocha,Beverages,560,24.0,15.0,1.0,65,160,78,1,70,8,1.43,28.6,38.6,False,True
+McDonald's,Frappe Mocha (Small),Frappe Mocha,Beverages,450,20.0,13.0,1.0,55,130,62,1,56,7,1.56,28.9,40.0,False,True
+McDonald's,Hazelnut Cappuccino (Large),Hazelnut Cappuccino,Beverages,290,8.0,4.5,0.0,25,105,51,0,51,7,2.41,36.2,24.8,False,True
+McDonald's,Hazelnut Cappuccino (Medium),Hazelnut Cappuccino,Beverages,240,6.0,3.5,0.0,20,85,42,0,42,6,2.5,35.4,22.5,False,True
+McDonald's,Hazelnut Cappuccino (Small),Hazelnut Cappuccino,Beverages,200,5.0,3.0,0.0,15,70,34,0,34,5,2.5,35.0,22.5,False,True
+McDonald's,Hazelnut Latte (Large),Hazelnut Latte,Beverages,330,9.0,5.0,0.0,30,130,53,0,53,9,2.73,39.4,24.5,False,True
+McDonald's,Hazelnut Latte (Medium),Hazelnut Latte,Beverages,280,8.0,4.5,0.0,25,110,45,0,45,8,2.86,39.3,25.7,False,True
+McDonald's,Hazelnut Latte (Small),Hazelnut Latte,Beverages,230,7.0,4.0,0.0,20,90,36,0,36,7,3.04,39.1,27.4,False,True
+McDonald's,Hi-C Orange Lavaburst (Child),Hi-C Orange Lavaburst,Beverages,120,0.0,0.0,0.0,0,0,32,0,32,0,0.0,0.0,0.0,False,True
+McDonald's,Hi-C Orange Lavaburst (Large),Hi-C Orange Lavaburst,Beverages,350,0.0,0.0,0.0,0,10,94,0,94,0,0.0,2.9,0.0,False,True
+McDonald's,Hi-C Orange Lavaburst (Medium),Hi-C Orange Lavaburst,Beverages,240,0.0,0.0,0.0,0,10,64,0,64,0,0.0,4.2,0.0,False,True
+McDonald's,Hi-C Orange Lavaburst (Small),Hi-C Orange Lavaburst,Beverages,160,0.0,0.0,0.0,0,5,44,0,44,0,0.0,3.1,0.0,False,True
+McDonald's,Hot Chocolate (Large),Hot Chocolate,Beverages,460,18.0,10.0,0.5,40,220,63,0,54,13,2.83,47.8,35.2,False,True
+McDonald's,Hot Chocolate (Medium),Hot Chocolate,Beverages,380,15.0,9.0,0.5,30,170,53,0,45,10,2.63,44.7,35.5,False,True
+McDonald's,Hot Chocolate (Small),Hot Chocolate,Beverages,300,12.0,7.0,0.0,25,135,41,0,35,8,2.67,45.0,36.0,False,True
+McDonald's,Hot Chocolate with Nonfat Milk (Large),Hot Chocolate with Nonfat Milk,Beverages,390,6.0,3.5,0.0,10,250,68,0,59,16,4.1,64.1,13.8,False,True
+McDonald's,Hot Chocolate with Nonfat Milk (Medium),Hot Chocolate with Nonfat Milk,Beverages,310,6.0,3.5,0.0,10,190,55,0,47,11,3.55,61.3,17.4,False,True
+McDonald's,Hot Chocolate with Nonfat Milk (Small),Hot Chocolate with Nonfat Milk,Beverages,250,5.0,3.0,0.0,10,140,43,0,37,8,3.2,56.0,18.0,False,True
+McDonald's,Iced Caramel Latte (Large),Iced Caramel Latte,Beverages,230,6.0,3.5,0.0,15,150,40,0,40,6,2.61,65.2,23.5,False,True
+McDonald's,Iced Caramel Latte (Medium),Iced Caramel Latte,Beverages,180,4.5,2.5,0.0,15,120,31,0,31,4,2.22,66.7,22.5,False,True
+McDonald's,Iced Caramel Latte (Small),Iced Caramel Latte,Beverages,160,3.0,1.5,0.0,10,100,29,0,29,3,1.88,62.5,16.9,False,True
+McDonald's,Iced Caramel Mocha (Large),Iced Caramel Mocha,Beverages,380,16.0,9.0,0.5,35,210,48,0,46,10,2.63,55.3,37.9,False,True
+McDonald's,Iced Caramel Mocha (Medium),Iced Caramel Mocha,Beverages,300,14.0,8.0,0.0,30,160,36,0,33,8,2.67,53.3,42.0,False,True
+McDonald's,Iced Caramel Mocha (Small),Iced Caramel Mocha,Beverages,240,12.0,7.0,0.0,25,130,29,0,26,6,2.5,54.2,45.0,False,True
+McDonald's,Iced Coffee - Caramel (Large),Iced Coffee - Caramel,Beverages,270,11.0,7.0,0.0,40,160,41,0,41,2,0.74,59.3,36.7,False,True
+McDonald's,Iced Coffee - Caramel (Medium),Iced Coffee - Caramel,Beverages,190,8.0,5.0,0.0,30,115,27,0,27,2,1.05,60.5,37.9,False,True
+McDonald's,Iced Coffee - Caramel (Small),Iced Coffee - Caramel,Beverages,130,5.0,3.5,0.0,20,80,21,0,20,1,0.77,61.5,34.6,False,True
+McDonald's,Iced Coffee - Hazelnut (Large),Iced Coffee - Hazelnut,Beverages,270,11.0,7.0,0.0,40,85,43,0,43,2,0.74,31.5,36.7,False,True
+McDonald's,Iced Coffee - Hazelnut (Medium),Iced Coffee - Hazelnut,Beverages,190,8.0,5.0,0.0,30,60,29,0,29,2,1.05,31.6,37.9,False,True
+McDonald's,Iced Coffee - Hazelnut (Small),Iced Coffee - Hazelnut,Beverages,130,5.0,3.5,0.0,20,40,21,0,21,1,0.77,30.8,34.6,False,True
+McDonald's,Iced Coffee - Regular (Large),Iced Coffee,Beverages,280,11.0,7.0,0.0,40,85,45,0,45,2,0.71,30.4,35.4,False,True
+McDonald's,Iced Coffee - Regular (Medium),Iced Coffee,Beverages,200,8.0,5.0,0.0,30,60,30,0,30,2,1.0,30.0,36.0,False,True
+McDonald's,Iced Coffee - Regular (Small),Iced Coffee,Beverages,140,5.0,3.5,0.0,20,40,22,0,22,1,0.71,28.6,32.1,False,True
+McDonald's,Iced Coffee - Vanilla (Large),Iced Coffee - Vanilla,Beverages,270,11.0,7.0,0.0,40,80,43,0,43,2,0.74,29.6,36.7,False,True
+McDonald's,Iced Coffee - Vanilla (Medium),Iced Coffee - Vanilla,Beverages,190,8.0,5.0,0.0,30,60,29,0,28,2,1.05,31.6,37.9,False,True
+McDonald's,Iced Coffee - Vanilla (Small),Iced Coffee - Vanilla,Beverages,130,5.0,3.5,0.0,20,40,21,0,21,1,0.77,30.8,34.6,False,True
+McDonald's,Iced Coffee with Sugar Free Vanilla Syrup (Large),Iced Coffee with Sugar Free Vanilla Syrup,Beverages,120,11.0,7.0,0.0,40,140,16,0,2,2,1.67,116.7,82.5,False,True
+McDonald's,Iced Coffee with Sugar Free Vanilla Syrup (Medium),Iced Coffee with Sugar Free Vanilla Syrup,Beverages,90,8.0,5.0,0.0,30,100,11,0,2,2,2.22,111.1,80.0,False,True
+McDonald's,Iced Coffee with Sugar Free Vanilla Syrup (Small),Iced Coffee with Sugar Free Vanilla Syrup,Beverages,60,5.0,3.5,0.0,20,70,8,0,1,1,1.67,116.7,75.0,False,True
+McDonald's,Iced Hazelnut Latte (Large),Iced Hazelnut Latte,Beverages,230,6.0,3.5,0.0,15,85,41,0,41,6,2.61,37.0,23.5,False,True
+McDonald's,Iced Hazelnut Latte (Medium),Iced Hazelnut Latte,Beverages,180,4.5,2.5,0.0,15,65,33,0,33,4,2.22,36.1,22.5,False,True
+McDonald's,Iced Hazelnut Latte (Small),Iced Hazelnut Latte,Beverages,160,3.0,1.5,0.0,10,45,31,0,31,3,1.88,28.1,16.9,False,True
+McDonald's,Iced Latte (Large),Iced Latte,Beverages,140,8.0,4.5,0.0,25,105,10,0,10,7,5.0,75.0,51.4,False,True
+McDonald's,Iced Latte (Medium),Iced Latte,Beverages,100,6.0,3.5,0.0,15,80,8,0,8,6,6.0,80.0,54.0,False,True
+McDonald's,Iced Latte (Small),Iced Latte,Beverages,80,4.5,2.5,0.0,15,65,6,0,6,4,5.0,81.2,50.6,False,True
+McDonald's,Iced Latte with Sugar Free Vanilla Syrup (Large),Iced Latte with Sugar Free Vanilla Syrup,Beverages,110,6.0,3.5,0.0,15,130,19,0,8,6,5.45,118.2,49.1,False,True
+McDonald's,Iced Latte with Sugar Free Vanilla Syrup (Medium),Iced Latte with Sugar Free Vanilla Syrup,Beverages,90,5.0,3.0,0.0,15,105,14,0,6,5,5.56,116.7,50.0,False,True
+McDonald's,Iced Latte with Sugar Free Vanilla Syrup (Small),Iced Latte with Sugar Free Vanilla Syrup,Beverages,60,3.0,2.0,0.0,10,80,12,0,4,3,5.0,133.3,45.0,False,True
+McDonald's,Iced Mocha (Medium),Iced Mocha,Beverages,310,13.0,8.0,0.0,25,140,42,0,35,7,2.26,45.2,37.7,False,False
+McDonald's,Iced Mocha with Nonfat Milk (Medium),Iced Mocha with Nonfat Milk,Beverages,270,8.0,4.5,0.0,10,140,43,0,35,7,2.59,51.9,26.7,False,False
+McDonald's,Iced Nonfat Caramel Latte (Large),Iced Nonfat Caramel Latte,Beverages,190,0.0,0.0,0.0,5,150,40,0,40,6,3.16,78.9,0.0,False,True
+McDonald's,Iced Nonfat Caramel Latte (Medium),Iced Nonfat Caramel Latte,Beverages,150,0.0,0.0,0.0,5,120,32,0,32,5,3.33,80.0,0.0,False,True
+McDonald's,Iced Nonfat Caramel Latte (Small),Iced Nonfat Caramel Latte,Beverages,140,0.0,0.0,0.0,0,105,30,0,30,3,2.14,75.0,0.0,False,True
+McDonald's,Iced Nonfat Caramel Mocha (Large),Iced Nonfat Caramel Mocha,Beverages,300,6.0,4.0,0.0,10,230,49,0,45,11,3.67,76.7,18.0,False,True
+McDonald's,Iced Nonfat Caramel Mocha (Medium),Iced Nonfat Caramel Mocha,Beverages,240,6.0,4.0,0.0,10,190,37,0,34,9,3.75,79.2,22.5,False,True
+McDonald's,Iced Nonfat Caramel Mocha (Small),Iced Nonfat Caramel Mocha,Beverages,200,6.0,4.0,0.0,10,140,29,0,26,6,3.0,70.0,27.0,False,True
+McDonald's,Iced Nonfat Hazelnut Latte (Large),Iced Nonfat Hazelnut Latte,Beverages,190,0.0,0.0,0.0,5,80,42,0,42,6,3.16,42.1,0.0,False,True
+McDonald's,Iced Nonfat Hazelnut Latte (Medium),Iced Nonfat Hazelnut Latte,Beverages,150,0.0,0.0,0.0,5,70,33,0,33,5,3.33,46.7,0.0,False,True
+McDonald's,Iced Nonfat Hazelnut Latte (Small),Iced Nonfat Hazelnut Latte,Beverages,140,0.0,0.0,0.0,0,50,32,0,32,3,2.14,35.7,0.0,False,True
+McDonald's,Iced Nonfat Latte (Large),Iced Nonfat Latte,Beverages,70,0.0,0.0,0.0,5,105,11,0,11,7,10.0,150.0,0.0,False,True
+McDonald's,Iced Nonfat Latte (Medium),Iced Nonfat Latte,Beverages,60,0.0,0.0,0.0,5,90,9,0,9,6,10.0,150.0,0.0,False,True
+McDonald's,Iced Nonfat Latte (Small),Iced Nonfat Latte,Beverages,50,0.0,0.0,0.0,5,70,7,0,7,5,10.0,140.0,0.0,False,True
+McDonald's,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Large),Iced Nonfat Latte with Sugar Free Vanilla Syrup,Beverages,60,0.0,0.0,0.0,5,130,19,0,8,6,10.0,216.7,0.0,False,True
+McDonald's,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Medium),Iced Nonfat Latte with Sugar Free Vanilla Syrup,Beverages,50,0.0,0.0,0.0,5,100,14,0,6,5,10.0,200.0,0.0,False,True
+McDonald's,Iced Nonfat Latte with Sugar Free Vanilla Syrup (Small),Iced Nonfat Latte with Sugar Free Vanilla Syrup,Beverages,40,0.0,0.0,0.0,0,85,13,0,5,4,10.0,212.5,0.0,False,True
+McDonald's,Iced Nonfat Vanilla Latte (Large),Iced Nonfat Vanilla Latte,Beverages,190,0.0,0.0,0.0,5,85,41,0,41,6,3.16,44.7,0.0,False,True
+McDonald's,Iced Nonfat Vanilla Latte (Medium),Iced Nonfat Vanilla Latte,Beverages,150,0.0,0.0,0.0,5,70,33,0,33,5,3.33,46.7,0.0,False,True
+McDonald's,Iced Nonfat Vanilla Latte (Small),Iced Nonfat Vanilla Latte,Beverages,140,0.0,0.0,0.0,0,50,31,0,31,3,2.14,35.7,0.0,False,True
+McDonald's,Iced Tea (Child),Iced Tea,Beverages,0,0.0,0.0,0.0,0,5,0,0,0,0,,,,True,True
+McDonald's,Iced Tea (Large),Iced Tea,Beverages,0,0.0,0.0,0.0,0,20,1,0,0,0,,,,True,True
+McDonald's,Iced Tea (Medium),Iced Tea,Beverages,0,0.0,0.0,0.0,0,15,0,0,0,0,,,,True,True
+McDonald's,Iced Tea (Small),Iced Tea,Beverages,0,0.0,0.0,0.0,0,10,0,0,0,0,,,,True,True
+McDonald's,Iced Vanilla Latte (Large),Iced Vanilla Latte,Beverages,230,6.0,3.5,0.0,15,85,41,0,41,6,2.61,37.0,23.5,False,True
+McDonald's,Iced Vanilla Latte (Medium),Iced Vanilla Latte,Beverages,190,4.5,2.5,0.0,15,70,33,0,33,5,2.63,36.8,21.3,False,True
+McDonald's,Iced Vanilla Latte (Small),Iced Vanilla Latte,Beverages,160,3.0,1.5,0.0,10,45,31,0,31,3,1.88,28.1,16.9,False,True
+McDonald's,Latte (Large),Latte,Beverages,210,11.0,7.0,0.0,35,150,16,0,16,11,5.24,71.4,47.1,False,True
+McDonald's,Latte (Medium),Latte,Beverages,180,10.0,6.0,0.0,30,130,13,0,13,10,5.56,72.2,50.0,False,True
+McDonald's,Latte (Small),Latte,Beverages,150,8.0,4.5,0.0,25,105,11,0,11,8,5.33,70.0,48.0,False,True
+McDonald's,Latte with Sugar Free Vanilla Syrup (Large),Latte with Sugar Free Vanilla Syrup,Beverages,180,10.0,6.0,0.0,30,180,25,0,13,10,5.56,100.0,50.0,False,True
+McDonald's,Latte with Sugar Free Vanilla Syrup (Medium),Latte with Sugar Free Vanilla Syrup,Beverages,160,8.0,5.0,0.0,25,150,21,0,11,8,5.0,93.8,45.0,False,True
+McDonald's,Latte with Sugar Free Vanilla Syrup (Small),Latte with Sugar Free Vanilla Syrup,Beverages,130,7.0,4.0,0.0,20,125,17,0,10,7,5.38,96.2,48.5,False,True
+McDonald's,Minute Maid 100% Apple Juice Box,Minute Maid 100% Apple Juice Box,Beverages,100,0.0,0.0,0.0,0,15,23,0,22,0,0.0,15.0,0.0,False,False
+McDonald's,Minute Maid Orange Juice (Large),Minute Maid Orange Juice,Beverages,280,0.0,0.0,0.0,0,5,58,0,58,4,1.43,1.8,0.0,False,True
+McDonald's,Minute Maid Orange Juice (Medium),Minute Maid Orange Juice,Beverages,190,0.0,0.0,0.0,0,0,39,0,39,3,1.58,0.0,0.0,False,True
+McDonald's,Minute Maid Orange Juice (Small),Minute Maid Orange Juice,Beverages,150,0.0,0.0,0.0,0,0,30,0,30,2,1.33,0.0,0.0,False,True
+McDonald's,Mocha (Large),Mocha,Beverages,400,14.0,8.0,0.5,30,190,58,0,49,10,2.5,47.5,31.5,False,True
+McDonald's,Mocha (Medium),Mocha,Beverages,330,12.0,7.0,0.0,25,150,48,0,41,7,2.12,45.5,32.7,False,True
+McDonald's,Mocha (Small),Mocha,Beverages,280,11.0,6.0,0.0,20,125,40,0,33,6,2.14,44.6,35.4,False,True
+McDonald's,Mocha with Nonfat Milk (Large),Mocha with Nonfat Milk,Beverages,330,6.0,3.5,0.0,10,190,58,0,50,10,3.03,57.6,16.4,False,True
+McDonald's,Mocha with Nonfat Milk (Medium),Mocha with Nonfat Milk,Beverages,280,6.0,3.5,0.0,10,160,50,0,42,8,2.86,57.1,19.3,False,True
+McDonald's,Mocha with Nonfat Milk (Small),Mocha with Nonfat Milk,Beverages,240,5.0,3.0,0.0,5,130,41,0,34,7,2.92,54.2,18.8,False,True
+McDonald's,Nonfat Cappuccino (Large),Nonfat Cappuccino,Beverages,90,0.0,0.0,0.0,5,130,13,0,13,9,10.0,144.4,0.0,False,True
+McDonald's,Nonfat Cappuccino (Medium),Nonfat Cappuccino,Beverages,80,0.0,0.0,0.0,5,110,12,0,12,8,10.0,137.5,0.0,False,True
+McDonald's,Nonfat Cappuccino (Small),Nonfat Cappuccino,Beverages,60,0.0,0.0,0.0,5,85,9,0,9,6,10.0,141.7,0.0,False,True
+McDonald's,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Large),Nonfat Cappuccino with Sugar Free Vanilla Syrup,Beverages,80,0.0,0.0,0.0,5,150,22,0,11,8,10.0,187.5,0.0,False,True
+McDonald's,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Medium),Nonfat Cappuccino with Sugar Free Vanilla Syrup,Beverages,70,0.0,0.0,0.0,5,130,19,0,10,7,10.0,185.7,0.0,False,True
+McDonald's,Nonfat Cappuccino with Sugar Free Vanilla Syrup (Small),Nonfat Cappuccino with Sugar Free Vanilla Syrup,Beverages,50,0.0,0.0,0.0,5,100,15,0,8,5,10.0,200.0,0.0,False,True
+McDonald's,Nonfat Caramel Cappuccino (Large),Nonfat Caramel Cappuccino,Beverages,230,0.0,0.0,0.0,5,180,49,0,49,7,3.04,78.3,0.0,False,True
+McDonald's,Nonfat Caramel Cappuccino (Medium),Nonfat Caramel Cappuccino,Beverages,190,0.0,0.0,0.0,5,150,41,0,41,6,3.16,78.9,0.0,False,True
+McDonald's,Nonfat Caramel Cappuccino (Small),Nonfat Caramel Cappuccino,Beverages,150,0.0,0.0,0.0,5,120,33,0,32,5,3.33,80.0,0.0,False,True
+McDonald's,Nonfat Caramel Latte (Large),Nonfat Caramel Latte,Beverages,260,0.0,0.0,0.0,5,220,53,0,53,10,3.85,84.6,0.0,False,True
+McDonald's,Nonfat Caramel Latte (Medium),Nonfat Caramel Latte,Beverages,220,0.0,0.0,0.0,5,180,45,0,45,9,4.09,81.8,0.0,False,True
+McDonald's,Nonfat Caramel Latte (Small),Nonfat Caramel Latte,Beverages,170,0.0,0.0,0.0,5,150,36,0,36,7,4.12,88.2,0.0,False,True
+McDonald's,Nonfat Caramel Mocha (Large),Nonfat Caramel Mocha,Beverages,280,4.0,2.5,0.0,10,260,49,0,46,12,4.29,92.9,12.9,False,True
+McDonald's,Nonfat Caramel Mocha (Medium),Nonfat Caramel Mocha,Beverages,240,4.0,2.5,0.0,5,200,41,0,38,9,3.75,83.3,15.0,False,True
+McDonald's,Nonfat Caramel Mocha (Small),Nonfat Caramel Mocha,Beverages,200,4.0,2.5,0.0,5,170,34,0,31,8,4.0,85.0,18.0,False,True
+McDonald's,Nonfat Hazelnut Cappuccino (Large),Nonfat Hazelnut Cappuccino,Beverages,230,0.0,0.0,0.0,5,100,51,0,51,7,3.04,43.5,0.0,False,True
+McDonald's,Nonfat Hazelnut Cappuccino (Medium),Nonfat Hazelnut Cappuccino,Beverages,190,0.0,0.0,0.0,5,90,43,0,43,6,3.16,47.4,0.0,False,True
+McDonald's,Nonfat Hazelnut Cappuccino (Small),Nonfat Hazelnut Cappuccino,Beverages,150,0.0,0.0,0.0,5,70,34,0,34,5,3.33,46.7,0.0,False,True
+McDonald's,Nonfat Hazelnut Latte (Large),Nonfat Hazelnut Latte,Beverages,260,0.0,0.0,0.0,5,135,55,0,55,10,3.85,51.9,0.0,False,True
+McDonald's,Nonfat Hazelnut Latte (Medium),Nonfat Hazelnut Latte,Beverages,220,0.0,0.0,0.0,5,115,46,0,46,9,4.09,52.3,0.0,False,True
+McDonald's,Nonfat Hazelnut Latte (Small),Nonfat Hazelnut Latte,Beverages,180,0.0,0.0,0.0,5,95,37,0,37,7,3.89,52.8,0.0,False,True
+McDonald's,Nonfat Latte (Large),Nonfat Latte,Beverages,120,0.0,0.0,0.0,5,160,18,0,18,12,10.0,133.3,0.0,False,True
+McDonald's,Nonfat Latte (Medium),Nonfat Latte,Beverages,110,0.0,0.0,0.0,5,140,15,0,15,10,9.09,127.3,0.0,False,True
+McDonald's,Nonfat Latte (Small),Nonfat Latte,Beverages,90,0.0,0.0,0.0,5,115,13,0,13,9,10.0,127.8,0.0,False,True
+McDonald's,Nonfat Latte with Sugar Free Vanilla Syrup (Large),Nonfat Latte with Sugar Free Vanilla Syrup,Beverages,110,0.0,0.0,0.0,5,190,27,0,15,11,10.0,172.7,0.0,False,True
+McDonald's,Nonfat Latte with Sugar Free Vanilla Syrup (Medium),Nonfat Latte with Sugar Free Vanilla Syrup,Beverages,90,0.0,0.0,0.0,5,160,22,0,13,9,10.0,177.8,0.0,False,True
+McDonald's,Nonfat Latte with Sugar Free Vanilla Syrup (Small),Nonfat Latte with Sugar Free Vanilla Syrup,Beverages,80,0.0,0.0,0.0,5,130,18,0,11,7,8.75,162.5,0.0,False,True
+McDonald's,Nonfat Vanilla Cappuccino (Large),Nonfat Vanilla Cappuccino,Beverages,230,0.0,0.0,0.0,5,100,51,0,51,7,3.04,43.5,0.0,False,True
+McDonald's,Nonfat Vanilla Cappuccino (Medium),Nonfat Vanilla Cappuccino,Beverages,190,0.0,0.0,0.0,5,90,42,0,42,6,3.16,47.4,0.0,False,True
+McDonald's,Nonfat Vanilla Cappuccino (Small),Nonfat Vanilla Cappuccino,Beverages,150,0.0,0.0,0.0,5,70,34,0,34,5,3.33,46.7,0.0,False,True
+McDonald's,Nonfat Vanilla Latte (Large),Nonfat Vanilla Latte,Beverages,260,0.0,0.0,0.0,5,135,55,0,55,10,3.85,51.9,0.0,False,True
+McDonald's,Nonfat Vanilla Latte (Medium),Nonfat Vanilla Latte,Beverages,220,0.0,0.0,0.0,5,115,46,0,46,9,4.09,52.3,0.0,False,True
+McDonald's,Nonfat Vanilla Latte (Small),Nonfat Vanilla Latte,Beverages,180,0.0,0.0,0.0,5,95,37,0,37,7,3.89,52.8,0.0,False,True
+McDonald's,POWERade Mountain Blast (Child),POWERade Mountain Blast,Beverages,70,0.0,0.0,0.0,0,65,20,0,16,0,0.0,92.9,0.0,False,True
+McDonald's,POWERade Mountain Blast (Large),POWERade Mountain Blast,Beverages,220,0.0,0.0,0.0,0,190,58,0,46,0,0.0,86.4,0.0,False,True
+McDonald's,POWERade Mountain Blast (Medium),POWERade Mountain Blast,Beverages,150,0.0,0.0,0.0,0,130,39,0,31,0,0.0,86.7,0.0,False,True
+McDonald's,POWERade Mountain Blast (Small),POWERade Mountain Blast,Beverages,100,0.0,0.0,0.0,0,85,27,0,21,0,0.0,85.0,0.0,False,True
+McDonald's,Sprite (Child),Sprite,Beverages,110,0.0,0.0,0.0,0,30,28,0,28,0,0.0,27.3,0.0,False,True
+McDonald's,Sprite (Large),Sprite,Beverages,310,0.0,0.0,0.0,0,80,83,0,83,0,0.0,25.8,0.0,False,True
+McDonald's,Sprite (Medium),Sprite,Beverages,210,0.0,0.0,0.0,0,55,56,0,56,0,0.0,26.2,0.0,False,True
+McDonald's,Sprite (Small),Sprite,Beverages,150,0.0,0.0,0.0,0,40,39,0,39,0,0.0,26.7,0.0,False,True
+McDonald's,Strawberry Banana Smoothie (Large),Strawberry Banana Smoothie,Beverages,330,1.0,0.5,0.0,5,55,77,4,70,3,0.91,16.7,2.7,False,True
+McDonald's,Strawberry Banana Smoothie (Medium),Strawberry Banana Smoothie,Beverages,260,1.0,0.0,0.0,5,40,60,3,54,2,0.77,15.4,3.5,False,True
+McDonald's,Strawberry Banana Smoothie (Small),Strawberry Banana Smoothie,Beverages,210,0.5,0.0,0.0,5,35,49,2,44,2,0.95,16.7,2.1,False,True
+McDonald's,Sweet Tea (Child),Sweet Tea,Beverages,110,0.0,0.0,0.0,0,5,27,0,27,0,0.0,4.5,0.0,False,True
+McDonald's,Sweet Tea (Large),Sweet Tea,Beverages,280,0.0,0.0,0.0,0,15,69,0,69,1,0.36,5.4,0.0,False,True
+McDonald's,Sweet Tea (Medium),Sweet Tea,Beverages,180,0.0,0.0,0.0,0,10,45,0,45,1,0.56,5.6,0.0,False,True
+McDonald's,Sweet Tea (Small),Sweet Tea,Beverages,150,0.0,0.0,0.0,0,10,36,0,36,1,0.67,6.7,0.0,False,True
+McDonald's,Vanilla Cappuccino (Large),Vanilla Cappuccino,Beverages,290,8.0,4.5,0.0,25,105,51,0,51,7,2.41,36.2,24.8,False,True
+McDonald's,Vanilla Cappuccino (Medium),Vanilla Cappuccino,Beverages,240,6.0,3.5,0.0,20,85,42,0,42,6,2.5,35.4,22.5,False,True
+McDonald's,Vanilla Cappuccino (Small),Vanilla Cappuccino,Beverages,200,5.0,3.0,0.0,15,70,34,0,34,5,2.5,35.0,22.5,False,True
+McDonald's,Vanilla Latte (Large),Vanilla Latte,Beverages,330,9.0,5.0,0.0,30,130,53,0,53,9,2.73,39.4,24.5,False,True
+McDonald's,Vanilla Latte (Medium),Vanilla Latte,Beverages,280,8.0,4.5,0.0,25,110,44,0,44,8,2.86,39.3,25.7,False,True
+McDonald's,Vanilla Latte (Small),Vanilla Latte,Beverages,230,7.0,4.0,0.0,20,90,36,0,36,7,3.04,39.1,27.4,False,True
+McDonald's,Wild Berry Smoothie (Large),Wild Berry Smoothie,Beverages,320,1.0,0.5,0.0,5,45,75,4,69,3,0.94,14.1,2.8,False,True
+McDonald's,Wild Berry Smoothie (Medium),Wild Berry Smoothie,Beverages,260,1.0,0.0,0.0,5,35,60,4,55,3,1.15,13.5,3.5,False,True
+McDonald's,Wild Berry Smoothie (Small),Wild Berry Smoothie,Beverages,210,0.5,0.0,0.0,5,30,48,3,44,2,0.95,14.3,2.1,False,True
+McDonald's,"Bacon, Egg & Cheese Bagel","Bacon, Egg & Cheese Bagel",Breakfast,560,27.0,9.0,0.5,260,1300,56,3,7,24,4.29,232.1,43.4,False,False
+McDonald's,"Bacon, Egg & Cheese Biscuit (Large Size Biscuit)","Bacon, Egg & Cheese Biscuit",Breakfast,480,27.0,12.0,0.0,235,1270,43,3,4,15,3.12,264.6,50.6,False,True
+McDonald's,"Bacon, Egg & Cheese Biscuit (Regular Size Biscuit)","Bacon, Egg & Cheese Biscuit",Breakfast,420,23.0,12.0,0.0,235,1160,37,2,3,15,3.57,276.2,49.3,False,True
+McDonald's,"Bacon, Egg & Cheese McGriddles","Bacon, Egg & Cheese McGriddles",Breakfast,420,18.0,8.0,0.0,240,1110,48,2,15,15,3.57,264.3,38.6,False,False
+McDonald's,Big Breakfast (Large Size Biscuit),Big Breakfast,Breakfast,800,52.0,18.0,0.0,555,1680,56,4,3,28,3.5,210.0,58.5,False,True
+McDonald's,Big Breakfast (Regular Size Biscuit),Big Breakfast,Breakfast,740,48.0,17.0,0.0,555,1560,51,3,3,28,3.78,210.8,58.4,False,True
+McDonald's,Big Breakfast with Hotcakes (Large Size Biscuit),Big Breakfast with Hotcakes,Breakfast,1150,60.0,20.0,0.0,575,2260,116,7,17,36,3.13,196.5,47.0,False,True
+McDonald's,Big Breakfast with Hotcakes (Regular Size Biscuit),Big Breakfast with Hotcakes,Breakfast,1090,56.0,19.0,0.0,575,2150,111,6,17,36,3.3,197.2,46.2,False,True
+McDonald's,Egg McMuffin,Egg McMuffin,Breakfast,300,12.0,5.0,0.0,260,820,30,2,3,18,6.0,273.3,36.0,False,False
+McDonald's,English Muffin,English Muffin,Breakfast,160,3.0,0.5,0.0,0,280,27,2,2,5,3.12,175.0,16.9,False,False
+McDonald's,Fruit & Maple Oatmeal,Fruit & Maple Oatmeal,Breakfast,290,4.5,2.0,0.0,10,160,57,5,32,5,1.72,55.2,14.0,False,False
+McDonald's,Fruit & Maple Oatmeal without Brown Sugar,Fruit & Maple Oatmeal without Brown Sugar,Breakfast,260,4.5,2.0,0.0,10,115,48,5,18,5,1.92,44.2,15.6,False,False
+McDonald's,Hash Brown,Hash Brown,Breakfast,150,9.0,1.5,0.0,0,310,15,2,0,1,0.67,206.7,54.0,False,False
+McDonald's,Hotcakes,Hotcakes,Breakfast,350,9.0,2.0,0.0,20,590,60,3,14,8,2.29,168.6,23.1,False,False
+McDonald's,Hotcakes and Sausage,Hotcakes and Sausage,Breakfast,520,24.0,7.0,0.0,50,930,61,3,14,15,2.88,178.8,41.5,False,False
+McDonald's,McSkillet Burrito with Sausage,McSkillet Burrito with Sausage,Breakfast,610,36.0,14.0,0.5,410,1390,44,3,4,27,4.43,227.9,53.1,False,False
+McDonald's,Oatmeal Raisin Cookie,Oatmeal Raisin Cookie,Breakfast,150,6.0,2.5,0.0,10,135,22,1,13,2,1.33,90.0,36.0,False,False
+McDonald's,Sausage Biscuit (Large Size Biscuit),Sausage Biscuit,Breakfast,480,31.0,13.0,0.0,30,1190,39,3,3,11,2.29,247.9,58.1,False,True
+McDonald's,Sausage Biscuit (Regular Size Biscuit),Sausage Biscuit,Breakfast,430,27.0,12.0,0.0,30,1080,34,2,2,11,2.56,251.2,56.5,False,True
+McDonald's,Sausage Biscuit with Egg (Large Size Biscuit),Sausage Biscuit with Egg,Breakfast,570,37.0,15.0,0.0,250,1280,42,3,3,18,3.16,224.6,58.4,False,True
+McDonald's,Sausage Biscuit with Egg (Regular Size Biscuit),Sausage Biscuit with Egg,Breakfast,510,33.0,14.0,0.0,250,1170,36,2,2,18,3.53,229.4,58.2,False,True
+McDonald's,Sausage Burrito,Sausage Burrito,Breakfast,300,16.0,7.0,0.0,115,830,26,1,2,12,4.0,276.7,48.0,False,False
+McDonald's,Sausage McGriddles,Sausage McGriddles,Breakfast,420,22.0,8.0,0.0,35,1030,44,2,15,11,2.62,245.2,47.1,False,False
+McDonald's,Sausage McMuffin,Sausage McMuffin,Breakfast,370,22.0,8.0,0.0,45,850,29,2,2,14,3.78,229.7,53.5,False,False
+McDonald's,Sausage McMuffin with Egg,Sausage McMuffin with Egg,Breakfast,450,27.0,10.0,0.0,285,920,30,2,2,21,4.67,204.4,54.0,False,False
+McDonald's,"Sausage, Egg & Cheese McGriddles","Sausage, Egg & Cheese McGriddles",Breakfast,560,32.0,12.0,0.0,265,1360,48,2,15,20,3.57,242.9,51.4,False,False
+McDonald's,Southern Style Chicken Biscuit (Large Size Biscuit),Southern Style Chicken Biscuit,Breakfast,470,24.0,9.0,0.0,30,1290,46,3,4,17,3.62,274.5,46.0,False,True
+McDonald's,Southern Style Chicken Biscuit (Regular Size Biscuit),Southern Style Chicken Biscuit,Breakfast,410,20.0,8.0,0.0,30,1180,41,2,3,17,4.15,287.8,43.9,False,True
+McDonald's,"Steak, Egg & Cheese Bagel","Steak, Egg & Cheese Bagel",Breakfast,660,33.0,12.0,1.0,300,1580,56,3,7,33,5.0,239.4,45.0,False,False
+McDonald's,Angus Bacon & Cheese,Angus Bacon & Cheese,Burgers & Sandwiches,790,39.0,17.0,2.0,145,2070,63,4,13,45,5.7,262.0,44.4,False,False
+McDonald's,Angus Bacon & Cheese Snack Wrap,Angus Bacon & Cheese Snack Wrap,Burgers & Sandwiches,390,21.0,9.0,1.0,75,1080,28,1,4,21,5.38,276.9,48.5,False,False
+McDonald's,Angus Chipotle BBQ Bacon,Angus Chipotle BBQ Bacon,Burgers & Sandwiches,800,39.0,18.0,2.0,145,2020,66,4,16,45,5.62,252.5,43.9,False,False
+McDonald's,Angus Chipotle BBQ Bacon Snack Wrap,Angus Chipotle BBQ Bacon Snack Wrap,Burgers & Sandwiches,400,22.0,10.0,1.0,75,1060,30,1,6,21,5.25,265.0,49.5,False,False
+McDonald's,Angus Deluxe,Angus Deluxe,Burgers & Sandwiches,750,39.0,16.0,2.0,135,1700,61,4,10,40,5.33,226.7,46.8,False,False
+McDonald's,Angus Deluxe Snack Wrap,Angus Deluxe Snack Wrap,Burgers & Sandwiches,410,25.0,10.0,1.5,75,990,27,2,3,20,4.88,241.5,54.9,False,False
+McDonald's,Angus Mushroom & Swiss,Angus Mushroom & Swiss,Burgers & Sandwiches,770,40.0,17.0,2.0,135,1170,59,4,8,44,5.71,151.9,46.8,False,False
+McDonald's,Angus Mushroom & Swiss Snack Wrap,Angus Mushroom & Swiss Snack Wrap,Burgers & Sandwiches,430,26.0,10.0,1.5,75,730,27,2,2,22,5.12,169.8,54.4,False,False
+McDonald's,Big Mac,Big Mac,Burgers & Sandwiches,540,29.0,10.0,1.5,75,1040,45,3,9,25,4.63,192.6,48.3,False,False
+McDonald's,Big N' Tasty,Big N' Tasty,Burgers & Sandwiches,460,24.0,8.0,1.5,70,720,37,3,8,24,5.22,156.5,47.0,False,False
+McDonald's,Big N' Tasty with Cheese,Big N' Tasty with Cheese,Burgers & Sandwiches,510,28.0,11.0,1.5,85,960,38,3,8,27,5.29,188.2,49.4,False,False
+McDonald's,Cheeseburger,Cheeseburger,Burgers & Sandwiches,300,12.0,6.0,0.5,40,750,33,2,6,15,5.0,250.0,36.0,False,False
+McDonald's,Chipotle BBQ Snack Wrap (Crispy),Chipotle BBQ Snack Wrap (Crispy),Burgers & Sandwiches,330,15.0,4.5,0.0,30,810,35,1,4,14,4.24,245.5,40.9,False,False
+McDonald's,Chipotle BBQ Snack Wrap (Grilled),Chipotle BBQ Snack Wrap (Grilled),Burgers & Sandwiches,260,9.0,3.5,0.0,45,830,28,1,5,18,6.92,319.2,31.2,False,False
+McDonald's,Double Cheeseburger,Double Cheeseburger,Burgers & Sandwiches,440,23.0,11.0,1.5,80,1150,34,2,7,25,5.68,261.4,47.0,False,False
+McDonald's,Double Quarter Pounder with Cheese,Double Quarter Pounder with Cheese,Burgers & Sandwiches,740,42.0,19.0,2.5,155,1380,40,3,9,48,6.49,186.5,51.1,False,False
+McDonald's,Filet-O-Fish,Filet-O-Fish,Burgers & Sandwiches,380,18.0,3.5,0.0,40,640,38,2,5,15,3.95,168.4,42.6,False,False
+McDonald's,Hamburger,Hamburger,Burgers & Sandwiches,250,9.0,3.5,0.5,25,520,31,2,6,12,4.8,208.0,32.4,False,False
+McDonald's,Hamburger Happy Meal,Hamburger Happy Meal,Burgers & Sandwiches,475,16.0,5.5,0.0,40,690,62,2,20,22,4.63,145.3,30.3,False,False
+McDonald's,Honey Mustard Snack Wrap (Crispy),Honey Mustard Snack Wrap (Crispy),Burgers & Sandwiches,330,16.0,4.5,0.0,30,780,34,1,4,14,4.24,236.4,43.6,False,False
+McDonald's,Honey Mustard Snack Wrap (Grilled),Honey Mustard Snack Wrap (Grilled),Burgers & Sandwiches,260,9.0,3.5,0.0,45,800,27,1,4,18,6.92,307.7,31.2,False,False
+McDonald's,Mac Snack Wrap,Mac Snack Wrap,Burgers & Sandwiches,330,19.0,7.0,1.0,45,690,26,1,3,15,4.55,209.1,51.8,False,False
+McDonald's,McDouble,McDouble,Burgers & Sandwiches,390,19.0,8.0,1.0,65,920,33,2,7,22,5.64,235.9,43.8,False,False
+McDonald's,McRib,McRib,Burgers & Sandwiches,500,26.0,10.0,0.0,70,980,44,3,11,22,4.4,196.0,46.8,False,False
+McDonald's,Quarter Pounder with Cheese,Quarter Pounder with Cheese,Burgers & Sandwiches,510,26.0,12.0,1.5,90,1190,40,3,9,29,5.69,233.3,45.9,False,False
+McDonald's,Ranch Snack Wrap (Crispy),Ranch Snack Wrap (Crispy),Burgers & Sandwiches,340,17.0,4.5,0.0,30,810,33,1,2,14,4.12,238.2,45.0,False,False
+McDonald's,Ranch Snack Wrap (Grilled),Ranch Snack Wrap (Grilled),Burgers & Sandwiches,270,10.0,4.0,0.0,45,830,26,1,2,18,6.67,307.4,33.3,False,False
+McDonald's,4 Piece Chicken McNuggets Happy Meal,4 Piece Chicken McNuggets Happy Meal,Chicken,395,17.0,3.5,0.0,35,510,41,1,14,19,4.81,129.1,38.7,False,False
+McDonald's,6 Piece Chicken McNuggets Happy Meal,6 Piece Chicken McNuggets Happy Meal,Chicken,475,22.0,4.5,0.0,50,680,46,2,14,24,5.05,143.2,41.7,False,False
+McDonald's,Chicken McNuggets (10 piece),Chicken McNuggets,Chicken,470,30.0,5.0,0.0,65,900,30,2,0,22,4.68,191.5,57.4,False,True
+McDonald's,Chicken McNuggets (4 piece),Chicken McNuggets,Chicken,190,12.0,2.0,0.0,25,360,12,1,0,9,4.74,189.5,56.8,False,True
+McDonald's,Chicken McNuggets (6 piece),Chicken McNuggets,Chicken,280,18.0,3.0,0.0,40,540,18,1,0,13,4.64,192.9,57.9,False,True
+McDonald's,Chicken Selects Premium Breast Strips (3 pc),Chicken Selects Premium Breast Strips,Chicken,400,24.0,3.5,0.0,50,1010,23,0,0,23,5.75,252.5,54.0,False,True
+McDonald's,Chicken Selects Premium Breast Strips (5 pc),Chicken Selects Premium Breast Strips,Chicken,660,40.0,6.0,0.0,85,1680,39,0,0,38,5.76,254.5,54.5,False,True
+McDonald's,McChicken,McChicken,Chicken,360,16.0,3.0,0.0,35,830,40,2,5,14,3.89,230.6,40.0,False,False
+McDonald's,Premium Crispy Chicken Classic Sandwich,Premium Crispy Chicken Classic Sandwich,Chicken,510,22.0,3.5,0.0,45,990,56,3,10,24,4.71,194.1,38.8,False,False
+McDonald's,Premium Crispy Chicken Club Sandwich,Premium Crispy Chicken Club Sandwich,Chicken,620,29.0,7.0,0.0,70,1200,57,3,11,31,5.0,193.5,42.1,False,False
+McDonald's,Premium Crispy Chicken Ranch BLT Sandwich,Premium Crispy Chicken Ranch BLT Sandwich,Chicken,540,23.0,4.5,0.0,55,1160,56,3,11,27,5.0,214.8,38.3,False,False
+McDonald's,Premium Grilled Chicken Classic Sandwich,Premium Grilled Chicken Classic Sandwich,Chicken,360,9.0,2.0,0.0,65,820,41,4,8,27,7.5,227.8,22.5,False,False
+McDonald's,Premium Grilled Chicken Club Sandwich,Premium Grilled Chicken Club Sandwich,Chicken,460,17.0,6.0,0.0,90,1040,43,4,9,35,7.61,226.1,33.3,False,False
+McDonald's,Premium Grilled Chicken Ranch BLT Sandwich,Premium Grilled Chicken Ranch BLT Sandwich,Chicken,380,10.0,3.0,0.0,75,1000,41,4,9,31,8.16,263.2,23.7,False,False
+McDonald's,Southern Style Crispy Chicken Sandwich,Southern Style Crispy Chicken Sandwich,Chicken,400,17.0,3.0,0.0,45,1030,39,1,6,24,6.0,257.5,38.2,False,False
+McDonald's,Baked Hot Apple Pie,Baked Hot Apple Pie,Desserts & Shakes,250,13.0,7.0,0.0,0,170,32,4,13,2,0.8,68.0,46.8,False,False
+McDonald's,Chocolate Chip Cookie,Chocolate Chip Cookie,Desserts & Shakes,160,8.0,3.5,0.0,10,90,21,1,15,2,1.25,56.2,45.0,False,False
+McDonald's,Chocolate McCafé Shake (12 fl oz cup),Chocolate McCafé Shake,Desserts & Shakes,580,17.0,10.0,1.0,50,240,94,1,77,11,1.9,41.4,26.4,False,True
+McDonald's,Chocolate McCafé Shake (16 fl oz cup),Chocolate McCafé Shake,Desserts & Shakes,720,20.0,12.0,1.0,60,300,119,1,98,15,2.08,41.7,25.0,False,True
+McDonald's,Chocolate McCafé Shake (22 fl oz cup),Chocolate McCafé Shake,Desserts & Shakes,880,24.0,15.0,1.5,75,370,147,1,121,18,2.05,42.0,24.5,False,True
+McDonald's,Chocolate Triple Thick Shake (12 fl oz cup),Chocolate Triple Thick Shake,Desserts & Shakes,440,10.0,6.0,0.5,40,190,76,1,63,10,2.27,43.2,20.5,False,True
+McDonald's,Chocolate Triple Thick Shake (16 fl oz cup),Chocolate Triple Thick Shake,Desserts & Shakes,580,14.0,8.0,1.0,50,250,102,1,84,13,2.24,43.1,21.7,False,True
+McDonald's,Chocolate Triple Thick Shake (21 fl oz cup),Chocolate Triple Thick Shake,Desserts & Shakes,770,18.0,11.0,1.0,70,330,134,1,111,18,2.34,42.9,21.0,False,True
+McDonald's,Chocolate Triple Thick Shake (32 fl oz cup),Chocolate Triple Thick Shake,Desserts & Shakes,1160,27.0,16.0,2.0,100,510,203,2,168,27,2.33,44.0,20.9,False,True
+McDonald's,Cinnamon Melts,Cinnamon Melts,Desserts & Shakes,460,19.0,9.0,0.0,15,370,66,3,32,6,1.3,80.4,37.2,False,False
+McDonald's,Fruit ‘n Yogurt Parfait (7 oz),Fruit ‘n Yogurt Parfait,Desserts & Shakes,160,2.0,1.0,0.0,5,85,31,1,21,4,2.5,53.1,11.2,False,False
+McDonald's,Hot Caramel Sundae,Hot Caramel Sundae,Desserts & Shakes,340,8.0,5.0,0.0,30,160,60,1,44,7,2.06,47.1,21.2,False,False
+McDonald's,Hot Fudge Sundae,Hot Fudge Sundae,Desserts & Shakes,330,10.0,7.0,0.0,25,180,54,2,48,8,2.42,54.5,27.3,False,False
+McDonald's,Kiddie Cone,Kiddie Cone,Desserts & Shakes,45,1.0,0.5,0.0,5,20,8,0,6,1,2.22,44.4,20.0,False,False
+McDonald's,McDonaldland Cookies,McDonaldland Cookies,Desserts & Shakes,260,8.0,2.5,0.0,0,300,43,1,13,4,1.54,115.4,27.7,False,False
+McDonald's,McFlurry with M&M'S Candies (12 fl oz cup),McFlurry with M&M'S Candies,Desserts & Shakes,710,25.0,16.0,1.0,60,220,105,4,97,15,2.11,31.0,31.7,False,False
+McDonald's,McFlurry with OREO Cookies (12 fl oz cup),McFlurry with OREO Cookies,Desserts & Shakes,580,19.0,10.0,1.0,50,320,89,3,73,13,2.24,55.2,29.5,False,False
+McDonald's,Peanuts (for Sundaes),Peanuts (for Sundaes),Desserts & Shakes,45,3.5,0.5,0.0,0,0,2,1,0,2,4.44,0.0,70.0,False,False
+McDonald's,Snack Size McFlurry with M&M'S Candies,Size McFlurry with M&M'S Candies,Desserts & Shakes,430,16.0,10.0,0.5,35,130,64,2,59,9,2.09,30.2,33.5,False,False
+McDonald's,Snack Size McFlurry with OREO Cookies,Size McFlurry with OREO Cookies,Desserts & Shakes,340,12.0,6.0,0.0,30,200,53,2,43,8,2.35,58.8,31.8,False,False
+McDonald's,Strawberry McCafé Shake (12 fl oz cup),Strawberry McCafé Shake,Desserts & Shakes,570,17.0,10.0,1.0,50,170,92,0,79,11,1.93,29.8,26.8,False,True
+McDonald's,Strawberry McCafé Shake (16 fl oz cup),Strawberry McCafé Shake,Desserts & Shakes,710,20.0,12.0,1.0,65,210,116,0,100,14,1.97,29.6,25.4,False,True
+McDonald's,Strawberry McCafé Shake (22 fl oz cup),Strawberry McCafé Shake,Desserts & Shakes,860,24.0,15.0,1.5,75,260,144,0,124,18,2.09,30.2,25.1,False,True
+McDonald's,Strawberry Sundae,Strawberry Sundae,Desserts & Shakes,280,6.0,4.0,0.0,25,95,49,1,45,6,2.14,33.9,19.3,False,False
+McDonald's,Strawberry Triple Thick Shake (12 fl oz cup),Strawberry Triple Thick Shake,Desserts & Shakes,420,10.0,6.0,0.5,40,130,73,0,63,10,2.38,31.0,21.4,False,True
+McDonald's,Strawberry Triple Thick Shake (16 fl oz cup),Strawberry Triple Thick Shake,Desserts & Shakes,560,13.0,8.0,1.0,50,170,97,0,84,13,2.32,30.4,20.9,False,True
+McDonald's,Strawberry Triple Thick Shake (21 fl oz cup),Strawberry Triple Thick Shake,Desserts & Shakes,740,18.0,11.0,1.0,70,230,128,0,111,17,2.3,31.1,21.9,False,True
+McDonald's,Strawberry Triple Thick Shake (32 fl oz cup),Strawberry Triple Thick Shake,Desserts & Shakes,1110,26.0,16.0,2.0,100,350,194,0,168,25,2.25,31.5,21.1,False,True
+McDonald's,Sugar Cookie,Sugar Cookie,Desserts & Shakes,160,7.0,3.0,0.0,5,120,21,0,11,2,1.25,75.0,39.4,False,False
+McDonald's,Vanilla McCafé Shake (12 fl oz cup),Vanilla McCafé Shake,Desserts & Shakes,540,16.0,10.0,1.0,45,170,88,0,64,10,1.85,31.5,26.7,False,True
+McDonald's,Vanilla McCafé Shake (16 fl oz cup),Vanilla McCafé Shake,Desserts & Shakes,680,20.0,12.0,1.0,60,220,111,0,82,14,2.06,32.4,26.5,False,True
+McDonald's,Vanilla McCafé Shake (22 fl oz cup),Vanilla McCafé Shake,Desserts & Shakes,830,24.0,14.0,1.5,75,270,138,0,103,17,2.05,32.5,26.0,False,True
+McDonald's,Vanilla Reduced Fat Ice Cream Cone,Vanilla Reduced Fat Ice Cream Cone,Desserts & Shakes,150,3.5,2.0,0.0,15,60,24,0,18,4,2.67,40.0,21.0,False,False
+McDonald's,Vanilla Triple Thick Shake (12 fl oz cup),Vanilla Triple Thick Shake,Desserts & Shakes,420,10.0,6.0,0.5,40,140,72,0,54,9,2.14,33.3,21.4,False,True
+McDonald's,Vanilla Triple Thick Shake (16 fl oz cup),Vanilla Triple Thick Shake,Desserts & Shakes,550,13.0,8.0,1.0,50,190,96,0,72,13,2.36,34.5,21.3,False,True
+McDonald's,Vanilla Triple Thick Shake (21 fl oz cup),Vanilla Triple Thick Shake,Desserts & Shakes,740,18.0,11.0,1.0,70,250,128,0,96,17,2.3,33.8,21.9,False,True
+McDonald's,Vanilla Triple Thick Shake (32 fl oz cup),Vanilla Triple Thick Shake,Desserts & Shakes,1110,26.0,16.0,2.0,100,370,193,0,145,25,2.25,33.3,21.1,False,True
+McDonald's,Premium Bacon Ranch Salad (without chicken),Premium Bacon Ranch Salad (without chicken),Salads,140,7.0,3.5,0.0,25,300,10,3,4,9,6.43,214.3,45.0,False,False
+McDonald's,Premium Bacon Ranch Salad with Crispy Chicken,Premium Bacon Ranch Salad with Crispy Chicken,Salads,370,20.0,6.0,0.0,75,970,20,3,6,29,7.84,262.2,48.6,False,False
+McDonald's,Premium Bacon Ranch Salad with Grilled Chicken,Premium Bacon Ranch Salad with Grilled Chicken,Salads,260,9.0,4.0,0.0,90,1010,12,3,5,33,12.69,388.5,31.2,False,False
+McDonald's,Premium Caesar Salad (without chicken),Premium Caesar Salad (without chicken),Salads,90,4.0,2.5,0.0,10,180,9,3,4,7,7.78,200.0,40.0,False,False
+McDonald's,Premium Caesar Salad with Crispy Chicken,Premium Caesar Salad with Crispy Chicken,Salads,330,17.0,4.5,0.0,60,840,20,3,6,26,7.88,254.5,46.4,False,False
+McDonald's,Premium Caesar Salad with Grilled Chicken,Premium Caesar Salad with Grilled Chicken,Salads,220,6.0,3.0,0.0,75,890,12,3,5,30,13.64,404.5,24.5,False,False
+McDonald's,Premium Southwest Salad (without chicken),Premium Southwest Salad (without chicken),Salads,140,4.5,2.0,0.0,10,150,20,6,6,6,4.29,107.1,28.9,False,False
+McDonald's,Premium Southwest Salad with Crispy Chicken,Premium Southwest Salad with Crispy Chicken,Salads,430,20.0,4.0,0.0,55,920,38,6,12,26,6.05,214.0,41.9,False,False
+McDonald's,Premium Southwest Salad with Grilled Chicken,Premium Southwest Salad with Grilled Chicken,Salads,320,9.0,3.0,0.0,70,960,30,6,11,30,9.38,300.0,25.3,False,False
+McDonald's,Side Salad,Side Salad,Salads,20,0.0,0.0,0.0,0,10,4,1,2,1,5.0,50.0,0.0,False,False
+McDonald's,Snack Size Fruit & Walnut Salad,Size Fruit & Walnut Salad,Salads,210,8.0,1.5,0.0,5,60,31,2,25,4,1.9,28.6,34.3,False,False
+McDonald's,Barbeque Sauce,Barbeque Sauce,Sauces & Condiments,50,0.0,0.0,0.0,0,260,12,0,10,0,0.0,520.0,0.0,False,False
+McDonald's,Butter Garlic Croutons,Butter Garlic Croutons,Sauces & Condiments,60,1.5,0.0,0.0,0,140,10,1,0,2,3.33,233.3,22.5,False,False
+McDonald's,Creamy Ranch Sauce,Creamy Ranch Sauce,Sauces & Condiments,170,18.0,3.0,0.0,10,270,2,0,1,0,0.0,158.8,95.3,False,False
+McDonald's,EQUAL 0 Calorie Sweetener,EQUAL 0 Calorie Sweetener,Sauces & Condiments,0,0.0,0.0,0.0,0,0,1,0,1,0,,,,True,False
+McDonald's,Grape Jam,Grape Jam,Sauces & Condiments,35,0.0,0.0,0.0,0,0,9,0,9,0,0.0,0.0,0.0,False,False
+McDonald's,Honey,Honey,Sauces & Condiments,50,0.0,0.0,0.0,0,0,12,0,11,0,0.0,0.0,0.0,False,False
+McDonald's,Hot Mustard Sauce,Hot Mustard Sauce,Sauces & Condiments,60,2.5,0.0,0.0,5,250,9,2,6,1,1.67,416.7,37.5,False,False
+McDonald's,Hotcake Syrup,Hotcake Syrup,Sauces & Condiments,180,0.0,0.0,0.0,0,20,45,0,32,0,0.0,11.1,0.0,False,False
+McDonald's,Ketchup Packet,Ketchup Packet,Sauces & Condiments,15,0.0,0.0,0.0,0,110,3,0,2,0,0.0,733.3,0.0,False,False
+McDonald's,Low Fat Caramel Dip,Low Fat Caramel Dip,Sauces & Condiments,70,0.5,0.0,0.0,5,35,15,0,9,0,0.0,50.0,6.4,False,False
+McDonald's,Newman's Own Creamy Caesar Dressing,Newman's Own Creamy Caesar Dressing,Sauces & Condiments,190,18.0,3.5,0.0,20,500,4,0,2,2,1.05,263.2,85.3,False,False
+McDonald's,Newman's Own Creamy Southwest Dressing,Newman's Own Creamy Southwest Dressing,Sauces & Condiments,100,6.0,1.0,0.0,20,340,11,0,3,1,1.0,340.0,54.0,False,False
+McDonald's,Newman's Own Low Fat Balsamic Vinaigrette,Newman's Own Low Fat Balsamic Vinaigrette,Sauces & Condiments,40,3.0,0.0,0.0,0,730,4,0,3,0,0.0,1825.0,67.5,False,False
+McDonald's,Newman's Own Low Fat Family Recipe Italian Dressing,Newman's Own Low Fat Family Recipe Italian Dressing,Sauces & Condiments,60,2.5,0.0,0.0,0,730,8,0,1,1,1.67,1216.7,37.5,False,False
+McDonald's,Newman's Own Ranch Dressing,Newman's Own Ranch Dressing,Sauces & Condiments,170,15.0,2.5,0.0,20,530,9,0,4,1,0.59,311.8,79.4,False,False
+McDonald's,SPLENDA No Calorie Sweetener,SPLENDA No Calorie Sweetener,Sauces & Condiments,0,0.0,0.0,0.0,0,0,1,0,1,0,,,,True,False
+McDonald's,Salt Packet,Salt Packet,Sauces & Condiments,0,0.0,0.0,0.0,0,270,0,0,0,0,,,,True,False
+McDonald's,Southwestern Chipotle Barbeque Sauce,Southwestern Chipotle Barbeque Sauce,Sauces & Condiments,60,0.0,0.0,0.0,0,210,15,1,11,0,0.0,350.0,0.0,False,False
+McDonald's,Spicy Buffalo Sauce,Spicy Buffalo Sauce,Sauces & Condiments,60,6.0,1.0,0.0,0,800,1,1,0,0,0.0,1333.3,90.0,False,False
+McDonald's,Strawberry Preserves,Strawberry Preserves,Sauces & Condiments,35,0.0,0.0,0.0,0,0,9,0,9,0,0.0,0.0,0.0,False,False
+McDonald's,Sugar Packet,Sugar Packet,Sauces & Condiments,15,0.0,0.0,0.0,0,0,4,0,4,0,0.0,0.0,0.0,False,False
+McDonald's,Sweet ‘N Sour Sauce,Sweet ‘N Sour Sauce,Sauces & Condiments,50,0.0,0.0,0.0,0,150,12,0,10,0,0.0,300.0,0.0,False,False
+McDonald's,Tangy Honey Mustard Sauce,Tangy Honey Mustard Sauce,Sauces & Condiments,60,2.0,0.0,0.0,5,140,10,0,8,0,0.0,233.3,30.0,False,False
+McDonald's,Whipped Margarine (1 pat),Whipped Margarine,Sauces & Condiments,40,4.5,1.5,0.0,0,55,0,0,0,0,0.0,137.5,101.2,False,False
+McDonald's,Apple Dippers with Low Fat Caramel Dip,Apple Dippers with Low Fat Caramel Dip,Sides,100,0.5,0.0,0.0,5,35,23,0,15,0,0.0,35.0,4.5,False,False
+McDonald's,Large French Fries,French Fries,Sides,500,25.0,3.5,0.0,0,350,63,6,0,6,1.2,70.0,45.0,False,True
+McDonald's,Medium French Fries,French Fries,Sides,380,19.0,2.5,0.0,0,270,48,5,0,4,1.05,71.1,45.0,False,True
+McDonald's,Small French Fries,French Fries,Sides,230,11.0,1.5,0.0,0,160,29,3,0,3,1.3,69.6,43.0,False,True

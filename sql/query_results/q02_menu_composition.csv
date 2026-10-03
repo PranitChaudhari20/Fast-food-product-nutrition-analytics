@@ -1,0 +1,25 @@
+brand,category,is_food,items,pct_of_brand_menu
+Burger King,Beverages,0,63,36.6
+Burger King,Burgers & Sandwiches,1,24,14.0
+Burger King,Breakfast,1,24,14.0
+Burger King,Chicken,1,16,9.3
+Burger King,Desserts & Shakes,1,14,8.1
+Burger King,Sides,1,14,8.1
+Burger King,Sauces & Condiments,0,14,8.1
+Burger King,Salads,1,3,1.7
+KFC,Beverages,0,112,52.6
+KFC,Chicken,1,43,20.2
+KFC,Sides,1,27,12.7
+KFC,Sauces & Condiments,0,15,7.0
+KFC,Desserts & Shakes,1,7,3.3
+KFC,Burgers & Sandwiches,1,5,2.3
+KFC,Salads,1,2,0.9
+KFC,Breakfast,1,2,0.9
+McDonald's,Beverages,0,181,55.2
+McDonald's,Desserts & Shakes,1,37,11.3
+McDonald's,Breakfast,1,29,8.8
+McDonald's,Burgers & Sandwiches,1,27,8.2
+McDonald's,Sauces & Condiments,0,24,7.3
+McDonald's,Chicken,1,15,4.6
+McDonald's,Salads,1,11,3.4
+McDonald's,Sides,1,4,1.2

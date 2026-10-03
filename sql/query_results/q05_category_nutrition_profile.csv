@@ -1,0 +1,9 @@
+display_order,category,is_food,items,avg_calories,avg_protein_g,avg_sugars_g,avg_sodium_mg
+1,Burgers & Sandwiches,1,56,552.9,28.9,8.1,1084
+3,Breakfast,1,55,487.1,16.1,8.0,1107
+6,Desserts & Shakes,1,58,468.3,9.5,60.1,238
+2,Chicken,1,74,378.8,19.8,2.7,873
+4,Sides,1,45,329.1,5.7,15.5,630
+5,Salads,1,16,226.6,16.6,6.3,550
+7,Beverages,0,356,186.1,3.0,38.2,101
+8,Sauces & Condiments,0,53,75.9,0.3,4.8,206

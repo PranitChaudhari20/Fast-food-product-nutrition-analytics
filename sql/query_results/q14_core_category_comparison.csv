@@ -1,0 +1,17 @@
+category,brand,items,avg_calories,avg_sodium_mg,vs_mean_of_brand_avgs
+Breakfast,Burger King,24,510,1200,12
+Breakfast,McDonald's,29,486,1068,-12
+Burgers & Sandwiches,Burger King,24,677,1116,141
+Burgers & Sandwiches,KFC,5,474,1320,-62
+Burgers & Sandwiches,McDonald's,27,458,1011,-78
+Chicken,Burger King,16,536,1116,112
+Chicken,McDonald's,15,433,917,10
+Chicken,KFC,43,301,767,-122
+Desserts & Shakes,McDonald's,37,532,212,133
+Desserts & Shakes,Burger King,14,406,325,7
+Desserts & Shakes,KFC,7,259,200,-140
+Salads,Burger King,3,347,802,58
+Salads,McDonald's,11,230,572,-58
+Sides,KFC,27,339,809,20
+Sides,Burger King,14,317,406,-2
+Sides,McDonald's,4,303,204,-17

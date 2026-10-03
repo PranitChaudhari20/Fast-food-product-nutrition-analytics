@@ -1,0 +1,31 @@
+Slot_ID,Comparable_Slot,Brand,Item_Name_As_Listed,Size_Or_Variant,Price_INR,Date_Collected,Source,Notes
+01,Flagship burger/sandwich,McDonald's,,,,,,The brand's signature item (the one it advertises most)
+02,Entry-level burger,McDonald's,,,,,,The cheapest burger/sandwich on the menu
+03,Veg burger,McDonald's,,,,,,The main vegetarian burger (important in the India market)
+04,Chicken main,McDonald's,,,,,,Fried chicken piece(s) or the main chicken burger
+05,Chicken nuggets/strips,McDonald's,,,,,,Smallest standard pack
+06,Wrap or roll,McDonald's,,,,,,Any wrap/roll item
+07,French fries - medium,McDonald's,,,,,,"Medium size only, so sizes stay comparable"
+08,Soft drink - medium,McDonald's,,,,,,Medium size cola or equivalent
+09,Dessert,McDonald's,,,,,,"Soft-serve cone, sundae or equivalent"
+10,Combo/value meal,McDonald's,,,,,,A standard medium combo meal
+01,Flagship burger/sandwich,Burger King,,,,,,The brand's signature item (the one it advertises most)
+02,Entry-level burger,Burger King,,,,,,The cheapest burger/sandwich on the menu
+03,Veg burger,Burger King,,,,,,The main vegetarian burger (important in the India market)
+04,Chicken main,Burger King,,,,,,Fried chicken piece(s) or the main chicken burger
+05,Chicken nuggets/strips,Burger King,,,,,,Smallest standard pack
+06,Wrap or roll,Burger King,,,,,,Any wrap/roll item
+07,French fries - medium,Burger King,,,,,,"Medium size only, so sizes stay comparable"
+08,Soft drink - medium,Burger King,,,,,,Medium size cola or equivalent
+09,Dessert,Burger King,,,,,,"Soft-serve cone, sundae or equivalent"
+10,Combo/value meal,Burger King,,,,,,A standard medium combo meal
+01,Flagship burger/sandwich,KFC,,,,,,The brand's signature item (the one it advertises most)
+02,Entry-level burger,KFC,,,,,,The cheapest burger/sandwich on the menu
+03,Veg burger,KFC,,,,,,The main vegetarian burger (important in the India market)
+04,Chicken main,KFC,,,,,,Fried chicken piece(s) or the main chicken burger
+05,Chicken nuggets/strips,KFC,,,,,,Smallest standard pack
+06,Wrap or roll,KFC,,,,,,Any wrap/roll item
+07,French fries - medium,KFC,,,,,,"Medium size only, so sizes stay comparable"
+08,Soft drink - medium,KFC,,,,,,Medium size cola or equivalent
+09,Dessert,KFC,,,,,,"Soft-serve cone, sundae or equivalent"
+10,Combo/value meal,KFC,,,,,,A standard medium combo meal

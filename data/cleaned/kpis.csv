@@ -1,0 +1,17 @@
+Metric,Value
+Menu rows analysed,713
+Distinct products across the three brands,420
+Food items (excl. beverages & condiments),304
+Beverage rows,356
+Brands,3
+Categories,8
+"Average calories, food items",432.2
+"Median calories, food items",390.0
+Highest-calorie item (kcal),1220
+Highest-calorie item,Triple Whopper Sandwich with Cheese
+"Average protein, food items (g)",16.6
+"Average sodium, food items (mg)",780.0
+"Average sugars, beverages (g)",38.2
+Zero-calorie items,56
+Food items under 400 kcal (%),51.6
+Food items of 800 kcal or more (%),8.6

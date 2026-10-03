@@ -1,0 +1,12 @@
+step,rows_after,rows_changed,note
+1. Loaded raw file,1147,0,"14 columns, header newlines removed"
+2. Kept McDonald's / Burger King / KFC,736,411,other chains in the file are out of scope
+3. Re-attached drink names to size rows,736,0,42 size rows now carry their drink name
+4. Dropped empty parent header rows,725,11,11 drink names that held no nutrition data
+5. Cleaned item text,725,0,"removed (R)/(TM)/dagger marks, normalised quotes and dashes"
+6. Converted nutrition columns to numbers,725,0,"17 ""<5""/""<1"" label values set to 0"
+7. Dropped unusable columns,725,0,"Calories from Fat, Weight Watchers Pnts, Company"
+8. Removed rows with no calorie value,725,0,
+9. Removed duplicate Brand+Item rows,713,12,same product listed twice in the source
+10. Derived product category from item name,713,0,"8 categories, 0 uncategorised"
+11. Final clean menu table,713,0,19 columns

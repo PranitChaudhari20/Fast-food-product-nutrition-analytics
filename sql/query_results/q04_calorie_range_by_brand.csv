@@ -1,0 +1,4 @@
+brand,min_calories,max_calories,calorie_range,avg_calories,stdev_calories
+KFC,15,1200,1185,311.9,222.7
+Burger King,50,1220,1170,507.5,268.4
+McDonald's,20,1160,1140,458.1,235.7

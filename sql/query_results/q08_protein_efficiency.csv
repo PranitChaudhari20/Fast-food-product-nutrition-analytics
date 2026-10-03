@@ -1,0 +1,16 @@
+brand,item,category,calories,protein_g,protein_per_100kcal,protein_rank
+KFC,KENTUCKY GRILLED CHICKEN Breast,Chicken,210,38.0,18.10,1
+KFC,Breast,Chicken,260,38.0,14.62,2
+McDonald's,Premium Caesar Salad with Grilled Chicken,Salads,220,30.0,13.64,3
+McDonald's,Premium Bacon Ranch Salad with Grilled Chicken,Salads,260,33.0,12.69,4
+KFC,KENTUCKY GRILLED CHICKEN Thigh,Chicken,150,17.0,11.33,5
+KFC,Drumstick,Chicken,100,11.0,11.00,6
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Breast,Chicken,390,39.0,10.00,7
+KFC,Thigh,Chicken,180,17.0,9.44,8
+McDonald's,Premium Southwest Salad with Grilled Chicken,Salads,320,30.0,9.38,9
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Limited Time Drumstick,Chicken,130,12.0,9.23,10
+KFC,SPICY CRISPY CHICKEN Breast,Chicken,350,30.0,8.57,11
+McDonald's,Premium Grilled Chicken Ranch BLT Sandwich,Chicken,380,31.0,8.16,12
+McDonald's,Premium Caesar Salad with Crispy Chicken,Salads,330,26.0,7.88,13
+McDonald's,Premium Bacon Ranch Salad with Crispy Chicken,Salads,370,29.0,7.84,14
+KFC,Limited Time ORIGINAL RECIPE CHICKEN Chicken Whole Wing,Chicken,130,10.0,7.69,15

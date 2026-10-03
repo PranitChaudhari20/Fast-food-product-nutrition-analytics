@@ -1,0 +1,4 @@
+Brand,MenuRows,BaseProducts,Categories,FoodItems,BeverageRows,SizeVariantRows,PctBeverageRows,AvgCalories_Food,MedianCalories_Food,AvgProtein_Food,AvgFat_Food,AvgCarbs_Food,AvgSugars_Food,AvgSodium_Food,AvgProteinPer100kcal_Food,AvgSodiumPer100kcal_Food,PctCaloriesFromFat_Food,MaxCalories_Food,PctFoodUnder400kcal,PctFood800kcalPlus
+McDonald's,328,184,8,123,181,215,55.2,458.1,420.0,17.3,19.3,53.8,26.2,707.0,3.92,163.7,37.8,1160,42.3,8.1
+Burger King,172,113,8,95,63,83,36.6,507.5,430.0,18.7,28.1,46.1,17.1,906.0,3.31,175.3,47.0,1220,42.1,13.7
+KFC,213,123,8,86,112,128,52.6,311.9,280.0,13.2,16.7,27.5,6.2,744.0,4.55,235.2,48.5,1200,75.6,3.5
